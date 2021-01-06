@@ -80,3 +80,12 @@ if __name__ == '__main__':
     query_name = input()
     scores = student_marks[query_name]
     print("{:.02f}".format(sum(scores)/len(scores)))
+	
+#14. Write a function
+def is_leap(year):
+    leap = False
+    
+    if year%4 == 0 and (year%100 != 0 or year%400 == 0):
+        leap = True
+    
+    return leap
