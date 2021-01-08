@@ -75,3 +75,23 @@ if __name__ == '__main__':
     
     for i in range(N-2,-1,-2): 
         print((i * ".|.").center(M, "-"))
+
+#22. Capitalize!
+def solve(s):
+    string = s.split()
+    for st in string:
+        s = s.replace(st, st.capitalize())
+
+    return s
+
+    
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = solve(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()
