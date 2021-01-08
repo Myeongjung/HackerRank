@@ -95,3 +95,23 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+	
+#23. sWAP cASE
+def swap_case(s):
+    string = ""
+    
+    for i in s:
+        if i.islower():
+            string += i.upper()
+        else:
+            string += i.lower()
+
+    return string
+
+if __name__ == '__main__':
+    s = input()
+    result = swap_case(s)
+    print(result)
+	
+	#simple answer
+	# return s.swapcase()
