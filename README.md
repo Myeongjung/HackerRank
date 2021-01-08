@@ -17,12 +17,13 @@
 | 12  |             Mutations           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
 | 13  |     Finding the percentage      |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
 | 14  |         Write a function        |    Medium    | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 15  |      String Split and Join      |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
-| 16  |        What's Your Name?        |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
-| 17  |          Find a string          |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
-| 18  |        String Validators        |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
-| 19  |          Text Alignment         |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
-| 20  |             Text Wrap           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-20.py) |
+| 15  |      String Split and Join      |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 16  |        What's Your Name?        |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 17  |          Find a string          |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 18  |        String Validators        |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 19  |          Text Alignment         |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 20  |             Text Wrap           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
+| 21  |        Designer Door Mat        |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-21.py) |
 
 
 
