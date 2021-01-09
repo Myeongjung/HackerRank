@@ -32,7 +32,8 @@
 ## 3. SQL
 
 ## 4. Interview Preparation Kit
-| idx |             Question            |  Difficulty  |          Category          |                                File Name                                      |
-|:---:|:-------------------------------:|:------------:|:--------------------------:|:-------------------------------------------------------------------------------------:|
-|  1  |          Sales by Match         |     Easy     |     Warm-up Challenges     | [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
+| idx |Question|Difficulty|Category|File Name|
+|:---:|:------:|:--------:|:------:|:-------:|
+|  1  |Sales by Match|Easy|Warm-up Challenges| [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
+|  2  |Counting Valley|Easy|Warm-up Challenges| [Counting Valley](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys.py) |
 
