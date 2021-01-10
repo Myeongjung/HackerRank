@@ -30,10 +30,41 @@
 ## 2. Java
 
 ## 3. SQL
+| idx |Question|Difficulty|File Name|
+|:---:|:------:|:--------:|:-------:|
+|1|Revising the Select Query I|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|2|Revising the Select Query II|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|3|Select All|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|4|Select By ID|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|5|Japanese Cities' Attributes|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|6|Japanese Cities' Names|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|7|Weather Observation Station 1|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|8|Weather Observation Station 2|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|9|Weather Observation Station 3|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|10|Weather Observation Station 4|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|11|Weather Observation Station 5|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|12|Weather Observation Station 6|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|13|Weather Observation Station 7|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|14|Weather Observation Station 8|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|15|Weather Observation Station 9|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|16|Weather Observation Station 10|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|17|Weather Observation Station 11|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|18|Weather Observation Station 12|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
+|19|Weather Observation Station 13|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|20|Weather Observation Station 14|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|21|Weather Observation Station 15|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|22|Weather Observation Station 16|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|23|Weather Observation Station 17|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|24|Weather Observation Station 18|Medium||
+|25|Weather Observation Station 19|Medium||
+|26|Weather Observation Station 20|Medium||
+
 
 ## 4. Interview Preparation Kit
 | idx |Question|Difficulty|Category|File Name|
 |:---:|:------:|:--------:|:------:|:-------:|
 |  1  |Sales by Match|Easy|Warm-up Challenges| [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
 |  2  |Counting Valley|Easy|Warm-up Challenges| [Counting Valley](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys.py) |
+|  3  |Jumping on the Clouds|Easy|Warm-up Challenges| [Jumping on the Clouds](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds.py) |
+|  4  |Repeated String Discussions|Easy|Warm-up Challenges| [Repeated String Discussions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String%20Discussions.py) |
 
