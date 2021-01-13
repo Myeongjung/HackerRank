@@ -29,8 +29,58 @@ WHERE LAT_N = (
     FROM STATION 
     WHERE LAT_N>38.7780)
 	
---6. Weather Observation Station 18
+--24. Weather Observation Station 18
+SELECT 
+	ROUND(MAX(LONG_W) - MIN(LONG_W) 
+				+ MAX(LAT_N) - MIN(LAT_N), 4)
+FROM STATION
 
---7. Weather Observation Station 19
+--25. Weather Observation Station 19
+SELECT
+    ROUND(SQRT(
+        POWER(MAX(LAT_N)  - MIN(LAT_N),  2)
+      + POWER(MAX(LONG_W) - MIN(LONG_W), 2)
+    ), 4)
+FROM 
+    STATION
+	
+--26. Weather Observation Station 20
+SET @N := 0;
 
---8. Weather Observation Station 20
+SELECT COUNT(*) FROM STATION INTO @TOTAL;
+
+SELECT
+    ROUND(AVG(A.LAT_N), 4)
+FROM (SELECT @N := @N +1 AS ROW_ID, LAT_N FROM STATION ORDER BY LAT_N) A
+WHERE
+    CASE WHEN MOD(@TOTAL, 2) = 0 
+            THEN A.ROW_ID IN (@TOTAL/2, (@TOTAL/2+1))
+            ELSE A.ROW_ID = (@TOTAL+1)/2
+    END
+	
+--27. Higher Than 75 Marks
+SELECT NAME
+FROM STUDENTS
+WHERE MARKS > 75
+ORDER BY RIGHT(NAME, 3), ID
+
+--28. Employee Names
+SELECT NAME
+FROM EMPLOYEE
+ORDER BY NAME
+
+--29. Employee Salaries
+SELECT NAME
+FROM EMPLOYEE
+WHERE MONTHS < 10
+  AND SALARY > 2000
+ORDER BY EMPLOYEE_ID
+
+--30. Type of Triangle
+SELECT
+    CASE WHEN (A+B) > C AND (B+C) > A AND (A+C) > B THEN 
+        CASE WHEN A = B AND B = C THEN 'Equilateral' 
+         WHEN (A = B AND B != C) OR (A = C AND B != C) OR (B = C AND A != B) THEN 'Isosceles' 
+        ELSE 'Scalene' END
+ELSE 'Not A Triangle' END
+FROM TRIANGLES
