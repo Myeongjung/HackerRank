@@ -55,9 +55,21 @@
 |21|Weather Observation Station 15|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
 |22|Weather Observation Station 16|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
 |23|Weather Observation Station 17|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
-|24|Weather Observation Station 18|Medium||
-|25|Weather Observation Station 19|Medium||
-|26|Weather Observation Station 20|Medium||
+|24|Weather Observation Station 18|Medium|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|25|Weather Observation Station 19|Medium|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|26|Weather Observation Station 20|Medium|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|27|Higher Than 75 Marks|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|28|Employee Names|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|29|Employee Salaries|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|30|Type of Triangle|Easy|[Solution #2](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%232.sql)|
+|31|Revising Aggregations - The Count Function|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|32|Revising Aggregations - The Sum Function|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|33|Revising Aggregations - Averages|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|34|Average Population|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|35|Japan Population|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|36|Population Density Difference|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|37|The Blunder|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|38|Top Earners|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
 
 
 ## 4. Interview Preparation Kit
