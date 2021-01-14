@@ -70,7 +70,15 @@
 |36|Population Density Difference|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
 |37|The Blunder|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
 |38|Top Earners|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
-
+|39|Asian Population|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|40|African Cities|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|41|Average Population of Each Continent|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|42|Draw The Triangle 1|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|43|Draw The Triangle 2|Easy|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|44|The PADS|Medium|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|45|Occupations|Medium|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|46|Binary Tree Nodes|Medium|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
+|47|New Companies|Medium|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
 
 ## 4. Interview Preparation Kit
 | idx |Question|Difficulty|Category|File Name|
