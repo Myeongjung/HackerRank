@@ -26,6 +26,20 @@
 | 21  |        Designer Door Mat        |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
 | 22  |            Capitalize!          |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
 | 23  |             sWAP cASE           |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 24  |         String Formatting       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 25  |         Alphabet Rangoli       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 26  |        itertools.product()       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 27  |      collections.Counter()       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 28  |     itertools.permutations()   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 29  |     Polar Coordinates   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 30  |   Introduction to Sets   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 31  |   DefaultDict Tutorial    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 32  |     Calendar Module    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 33  |    Exceptions     |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 34  |    Collections.namedtuple()    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+
+
+
 
 ## 2. Java
 
