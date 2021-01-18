@@ -37,6 +37,28 @@
 | 32  |     Calendar Module    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
 | 33  |    Exceptions     |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
 | 34  |    Collections.namedtuple()    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 35  |    Collections.OrderedDict()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 36  |   Symmetric Difference     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 37  |   itertools.combinations()   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 38  |     Incorrect Regex   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 39  |   Set .add()     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 40  |   Set .discard(), .remove() & .pop()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 41  |    itertools.combinations_with_replacement()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 42  |   Set .union() Operation     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 43  |   Set .intersection() Operation |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 44  |    Set .difference() Operation   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 45  |    Set .symmetric_difference() Operation  |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 46  |    Arrays  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 47  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 48  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 49  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 50  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 51  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 52  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 53  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 54  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 55  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 56  |      |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
 
 
 
