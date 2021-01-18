@@ -1,6 +1,7 @@
 # HackerRank Solutions
 
-## 1. Python (based on Python 3)
+## 1. Python 
+(based on Python 3)
 | idx |             Question            |  Difficulty  |                                          File Name                                           |
 |:---:|:-------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|
 |  1  | Say "Hello, World!" With Python |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
@@ -66,6 +67,7 @@
 ## 2. Java
 
 ## 3. SQL
+(based on MySQL)
 | idx |Question|Difficulty|File Name|
 |:---:|:------:|:--------:|:-------:|
 |1|Revising the Select Query I|Easy|[Solution #1](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231.sql)|
@@ -117,6 +119,7 @@
 |47|New Companies|Medium|[Solution #3](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%233.sql)|
 
 ## 4. Interview Preparation Kit
+(based on Python 3)
 | idx |Question|Difficulty|Category|File Name|
 |:---:|:------:|:--------:|:------:|:-------:|
 |  1  |Sales by Match|Easy|Warm-up Challenges| [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
