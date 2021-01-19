@@ -127,7 +127,7 @@
 (based on Python 3)
 
 | Days |Question|Difficulty|File Name|
-|:---:|:------:|:--------:|:------:|:-------:|
+|:---:|:------:|:--------:|:-------:|
 |  0  | Mean, Median, and Mode|Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%200.py) |
 |  0  | Weighted Mean |Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%200.py) |
 
