@@ -60,7 +60,18 @@
 | 54  |   Re.findall() & Re.finditer()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
 | 55  |   Re.start() & Re.end()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
 | 56  |  Collections.deque()    |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-
+| 57  |   Check Subset   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 58  |    Check Strict Superset  |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 59  |  Class 2 - Find the Torsional Angle   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 60  |   Zipped!   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 61  |    input()  |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 62  |   Python Evaluation   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 63  |  Detect Floating Point Number    |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 64  |  Map and Lambda Function    |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 65  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 66  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 67  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 68  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
 
 ## 2. SQL
 (based on MySQL)
@@ -130,6 +141,9 @@
 |:---:|:------:|:--------:|:-------:|
 |  0  | Mean, Median, and Mode|Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%200.py) |
 |  0  | Weighted Mean |Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%200.py) |
+|  1  | Quartiles |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
+|  1  | Interquartile Range |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
+|  1  | Standard Deviation |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
 
 
 
