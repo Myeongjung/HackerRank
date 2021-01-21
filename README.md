@@ -73,17 +73,17 @@
 | 67  |   Validating phone numbers   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
 | 68  |   Validating and Parsing Email Addresses   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
 | 69  |  Hex Color Code   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 70  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 71  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 72  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 73  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 74  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 75  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 76  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 77  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 78  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 79  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 80  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 70  |   HTML Parser - Part 1  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 71  |   HTML Parser - Part 2  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 72  |  Detect HTML Tags, Attributes and Attribute Values   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 73  |  XML 1 - Find the Score   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 74  |  XML2 - Find the Maximum Depth   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 75  |  Validating UID   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 76  |   Standardize Mobile Number Using Decorators  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 77  |   Decorators 2 - Name Directory  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 78  |   Shape and Reshape  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 79  |   Transpose and Flatten  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 80  |   Concatenate  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
 
 ## 2. SQL
 (based on MySQL)
