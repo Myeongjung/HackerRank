@@ -106,7 +106,43 @@ if __name__ == '__main__':
     n = int(input())
     print(list(map(cube, fibonacci(n))))
 		
-#65. 
+#65. Group(), Groups() & Groupdict()
+import re
 
+re_exp = r'([a-z0-9])\1'
 
-#66.
+m = re.search(re_exp, input())
+if m:
+    print(m.group(1))
+else:
+    print(-1)
+
+#66. Validating Roman Numerals
+thousand = "(?:(M){0,3})?"
+hundred  = "(?:(D?(C){0,3})|(CM)|(CD))?"
+ten      = "(?:(L?(X){0,3})|(XC)|(XL))?"
+unit     = "(?:(V?(I){0,3})|(IX)|(IV))?"
+
+regex_pattern = r"^" + thousand + hundred + ten + unit + "$"
+
+import re
+print(str(bool(re.match(regex_pattern, input()))))
+
+#67. Validating phone numbers
+import re
+
+re_exp = r"^[7-9]\d{9}$"
+
+for _ in range(int(input())):
+    print('YES' if re.match(re_exp, input()) else 'NO')
+	
+#68. Validating and Parsing Email Addresses
+import email.utils
+import re
+
+re_exp = r"^[a-zA-Z][\w\-.]*@[a-zA-Z]+\.[a-zA-Z]{1,3}$"
+
+for _ in range(int(input())):
+    n, e = email.utils.parseaddr(input())
+    if re.match(re_exp, e):
+        print(email.utils.formataddr((n, e)))

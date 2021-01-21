@@ -60,18 +60,30 @@
 | 54  |   Re.findall() & Re.finditer()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
 | 55  |   Re.start() & Re.end()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
 | 56  |  Collections.deque()    |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 57  |   Check Subset   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 58  |    Check Strict Superset  |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 59  |  Class 2 - Find the Torsional Angle   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 60  |   Zipped!   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 61  |    input()  |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 62  |   Python Evaluation   |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 63  |  Detect Floating Point Number    |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 64  |  Map and Lambda Function    |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 65  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 66  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 67  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
-| 68  |      |     Easy     | [Solution#57-](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-.py) |
+| 57  |   Check Subset   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 58  |    Check Strict Superset  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 59  |  Class 2 - Find the Torsional Angle   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 60  |   Zipped!   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 61  |    input()  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 62  |   Python Evaluation   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 63  |  Detect Floating Point Number    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 64  |  Map and Lambda Function    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 65  |   Group(), Groups() & Groupdict()   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 66  |  Validating Roman Numerals    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 67  |   Validating phone numbers   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 68  |   Validating and Parsing Email Addresses   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 69  |  Hex Color Code   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 70  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 71  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 72  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 73  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 74  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 75  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 76  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 77  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 78  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 79  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 80  |     |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
 
 ## 2. SQL
 (based on MySQL)
@@ -144,6 +156,8 @@
 |  1  | Quartiles |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
 |  1  | Interquartile Range |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
 |  1  | Standard Deviation |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%201.py) |
-
+|  2  | Basic Probability |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%202.py) |
+|  2  | More Dice |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%202.py) |
+|  2  | Compound Event Probability |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%202.py) |
 
 
