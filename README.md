@@ -8,7 +8,7 @@
 |4   | [10 Days of Statistics](#4.-10-days-of-statistics) 				 | In progress |
 |5   | [Java](#5.-java) 															 	 | In progress |
 
-##1. Python 
+## 1. Python 
 (based on Python 3)
 
 | idx |             Question            |  Difficulty  |                                          File Name                                           |
@@ -129,7 +129,7 @@
 | 114|  Words Score | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
 | 115|  Default Arguments | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
 
-##2. SQL
+## 2. SQL
 (based on MySQL)
 
 | idx |Question|Difficulty|File Name|
@@ -182,7 +182,7 @@
 |46|Binary Tree Nodes|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 |47|New Companies|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 
-##3. Interview Preparation Kit
+## 3. Interview Preparation Kit
 (based on Python 3)
 
 | idx |Question|Difficulty|Category|File Name|
@@ -192,7 +192,7 @@
 |  3  |Jumping on the Clouds|Easy|Warm-up Challenges| [Jumping on the Clouds](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds.py) |
 |  4  |Repeated String Discussions|Easy|Warm-up Challenges| [Repeated String Discussions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String%20Discussions.py) |
 
-##4. 10 Days of Statistics
+## 4. 10 Days of Statistics
 (based on Python 3)
 
 | Days |Question|Difficulty|File Name|
@@ -226,7 +226,7 @@
 |  9  | Multiple Linear Regression  |Easy | need to be done <!--[Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
 
 
-##5. Java
+## 5. Java
 (based on Java 7)
 
 | idx |Question|Difficulty|File Name|
