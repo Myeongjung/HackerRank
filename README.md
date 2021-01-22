@@ -7,7 +7,7 @@
 |3   | [Interview Preparation Kit](#3.-interview-preparation-kit) 	 | In progress |
 |4   | [10 Days of Statistics](#4.-10-days-of-statistics) 				 | In progress |
 |5   | [Java](#5.-java) 															 	 | In progress |
-
+[Java](#5.-java) 	
 ## 1. Python 
 (based on Python 3)
 
