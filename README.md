@@ -95,6 +95,30 @@
 | 88  | Inner and Outer |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
 | 89  | Polynomials |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
 | 91  | Linear Algebra |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 92  | The Minion Game| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 93  | Merge the Tools!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 94  | Time Delta| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->||
+| 95  | Find Angle MBC| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 96  | No Idea!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 97  | Word Order| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 98  | Compress the String!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 99  | Company Logo| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 100|  Piling Up! | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 101|  Triangle Quest 2 | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 102|  Iterables and Iterators | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 103|  Maximize It! | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 104|  Triangle Quest | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 105|  Classes: Dealing with Complex Numbers | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 106|  Athlete Sort | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 107|  ginortS | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 108|  Validating Email Addresses With a Filter | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 109|  Reduce Function | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 110|  Regex Substitution | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 111|  Validating Credit Card Numbers | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 112|  Validating Postal Codes | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 113|  Matrix Script | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 114|  Words Score | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 115|  Default Arguments | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
 
 ## 2. SQL
 (based on MySQL)
