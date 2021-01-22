@@ -2,11 +2,11 @@
 ## List of solutions
 |idx | Contents 																			 | Status		 |
 |:--:|:-------------------------------------------------------------------:|:-------------:|
-|1   | [Python](#1.-Python) 														 | In progress |
-|2   | [SQL](#2.-SQL) 																 | In progress |
-|3   | [Interview Preparation Kit](#3.-Interview-Preparation-Kit) 	 | In progress |
-|4   | [10 Days of Statistics](#4.-10-Days-of-Statistics) 				 | In progress |
-|5   | [Java](#5.-Java) 															 	 | In progress |
+|1   | [Python](#1.-python) 														 | In progress |
+|2   | [SQL](#2.-sql)	 																 | In progress |
+|3   | [Interview Preparation Kit](#3.-interview-preparation-kit) 	 | In progress |
+|4   | [10 Days of Statistics](#4.-10-days-of-statistics) 				 | In progress |
+|5   | [Java](#5.-java) 															 	 | In progress |
 
 ## 1. Python 
 (based on Python 3)
