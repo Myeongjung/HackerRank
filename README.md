@@ -270,12 +270,28 @@
 |37| Java Interface |Easy|[Solution #29-39](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2329-39.java)|
 |38| Java Method Overriding |Easy|[Solution #29-39](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2329-39.java)|
 |39| Java Method Overriding 2 (Super Keyword) |Easy|[Solution #29-39](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2329-39.java)|
-|40| Java Instanceof keyword |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|41| Java Iterator |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|42| Java Exception Handling (Try-catch) |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|43| Java Exception Handling |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|44| Java Varargs - Simple Addition |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|45| Java Reflection - Attributes |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|46| Java Factory Pattern |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|47| Java Singleton Pattern |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
-|48| Covariant Return Types |Easy|[Solution #40-48](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-48.java)|
+|40| Java Instanceof keyword |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|41| Java Iterator |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|42| Java Exception Handling (Try-catch) |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|43| Java Exception Handling |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|44| Java Varargs - Simple Addition |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|45| Java Reflection - Attributes |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|46| Java Factory Pattern |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|47| Java Singleton Pattern |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|48| Covariant Return Types |Easy|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|49| Java Regex |Medium|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|50| Java Regex 2 - Duplicate Words |Medium|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|51| Tag Content Extractor |Medium|[Solution #40-51](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2340-51.java)|
+|52| Java BigDecimal |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|53| Java 1D Array ( |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|54| Java Stack |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|55| Can You Access? |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|56| Prime Checker |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|57| Java Visitor Patt |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|58| Java Annotation |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|59| Java Lambda Ex |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|60| Java MD5 |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|61| Java Comparato |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|62| Java Dequeue |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|63| Java Priority Qu |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|64| Java SHA-256 |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
