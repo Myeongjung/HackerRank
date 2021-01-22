@@ -162,8 +162,8 @@
 |  3  | Conditional Probability |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
 |  3  | Cards of the Same Suit  |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
 |  3  | Drawing Marbles  |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
-|  4  |   |Easy | \\<!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  |   |Easy | \\<!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  |   |Easy | \\<!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  |   |Easy | \\<!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
+|  4  |   |Easy | <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
+|  4  |   |Easy | <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
+|  4  |   |Easy | <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
+|  4  |   |Easy | <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
 
