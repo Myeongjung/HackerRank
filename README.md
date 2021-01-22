@@ -1,4 +1,5 @@
 # HackerRank Solutions
+[toc]
 ## List of solutions
 |idx | Contents 																			 | Status		 |
 |:--:|:-------------------------------------------------------------------:|:-------------:|
