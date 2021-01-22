@@ -1,12 +1,12 @@
 # HackerRank Solutions
 ## List of solutions
-|idx | Content 																			 | Status		 |
+|idx | Contents 																			 | Status		 |
 |:--:|:-------------------------------------------------------------------:|:-------------:|
-|1   | [Python](## 1. Python) 													 | In progress |
-|2   | [SQL](## 2. SQL) 															 | In progress |
-|3   | [Interview Preparation Kit](## 3. Interview Preparation Kit) | In progress |
-|4   | [10 Days of Statistics](## 4. 10 Days of Statistics) 				 | In progress |
-|5   | [Java](## 5. Java) 															 | In progress |
+|1   | [Python](#1.-Python) 														 | In progress |
+|2   | [SQL](#2.-SQL) 																 | In progress |
+|3   | [Interview Preparation Kit](#3.-Interview-Preparation-Kit) 	 | In progress |
+|4   | [10 Days of Statistics](#4.-10-Days-of-Statistics) 				 | In progress |
+|5   | [Java](#5.-Java) 															 	 | In progress |
 
 ## 1. Python 
 (based on Python 3)
