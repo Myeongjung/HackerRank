@@ -1,7 +1,7 @@
 # HackerRank Solutions
 ## Table of contents
 |idx | Contents 																			 | Status		 |
-|:--:|:--------------------------------------------------------------------|:-------------:|
+|:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | In progress (91/115) |
 |2   | [SQL](#2-sql)	 																 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
