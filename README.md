@@ -1,12 +1,12 @@
 # HackerRank Solutions
 ## Table of contents
-- [HackerRank Solutions](#hackerrank-solutions)
-  * [Table of contents](#table-of-contents)
-  * [1. Python](#1-python)
-  * [2. SQL](#2-sql)
-  * [3. Interview Preparation Kit](#3-interview-preparation-kit)
-  * [4. 10 Days of Statistics](#4-10-days-of-statistics)
-  * [5. Java](#5-java)
+|idx | Contents 																			 | Status		 |
+|:--:|:--------------------------------------------------------------------|:-------------:|
+|1   | [Python](#1-python) 														 | In progress |
+|2   | [SQL](#2-sql)	 																 | In progress |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress |
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress |
+|5   | [Java](#5-java) 															 	 | In progress |
 
 ## 1. Python 
 (based on Python 3)
