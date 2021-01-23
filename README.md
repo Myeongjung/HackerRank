@@ -208,10 +208,10 @@
 |  3  | Conditional Probability |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
 |  3  | Cards of the Same Suit  |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
 |  3  | Drawing Marbles  |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%203.py) |
-|  4  | Binomial Distribution I  |Easy | need to be done <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  | Binomial Distribution II  |Easy | need to be done <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  | Geometric Distribution I  |Easy | need to be done <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
-|  4  | Geometric Distribution II  |Easy | need to be done <!--[Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) -->|
+|  4  | Binomial Distribution I  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
+|  4  | Binomial Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
+|  4  | Geometric Distribution I  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
+|  4  | Geometric Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
 |  5  | Poisson Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
 |  5  | Poisson Distribution II  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
 |  5  | Normal Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
@@ -227,7 +227,6 @@
 
 
 ## 5. Java
-(based on Java 7)
 
 | idx |Question|Difficulty|File Name|
 |:---:|:------:|:--------:|:-------:|

@@ -1,5 +1,3 @@
-(based on Java 7)
-
 | idx |Question|Difficulty|File Name|
 |:---:|:------:|:--------:|:-------:|
 |1| Welcome to Java! |Easy|[Solution #1-14](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%231-14.java)|
