@@ -17,10 +17,10 @@
 |  4  | Binomial Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
 |  4  | Geometric Distribution I  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
 |  4  | Geometric Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
-|  5  | Poisson Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Poisson Distribution II  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Normal Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Normal Distribution II  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
+|  5  | Poisson Distribution I  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Poisson Distribution II  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Normal Distribution I  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Normal Distribution II  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
 |  6  | The Central Limit Theorem I  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|
 |  6  | The Central Limit Theorem II  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|
 |  6  | The Central Limit Theorem III  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|

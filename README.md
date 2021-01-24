@@ -5,7 +5,7 @@
 |1   | [Python](#1-python) 														 | In progress (91/115) |
 |2   | [SQL](#2-sql)	 																 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
-|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress (15/27)|
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress (19/27)|
 |5   | [Java](#5-java) 															 	 | In progress (60/64) |
 
 ## 1. Python 
@@ -212,10 +212,10 @@
 |  4  | Binomial Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
 |  4  | Geometric Distribution I  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
 |  4  | Geometric Distribution II  |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%204.py) |
-|  5  | Poisson Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Poisson Distribution II  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Normal Distribution I  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
-|  5  | Normal Distribution II  |Easy | need to be done <!--[Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) -->|
+|  5  | Poisson Distribution I  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Poisson Distribution II  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Normal Distribution I  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
+|  5  | Normal Distribution II  |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%205.py) |
 |  6  | The Central Limit Theorem I  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|
 |  6  | The Central Limit Theorem II  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|
 |  6  | The Central Limit Theorem III  |Easy | need to be done <!--[Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) -->|
