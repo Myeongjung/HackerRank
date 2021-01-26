@@ -24,8 +24,8 @@
 |  6  | The Central Limit Theorem I  |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) |
 |  6  | The Central Limit Theorem II  |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) |
 |  6  | The Central Limit Theorem III  |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) |
-|  7  | Pearson Correlation Coefficient I  |Easy | need to be done <!--[Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) -->|
-|  7  | Spearman's Rank Correlation Coefficient  |Easy | need to be done <!--[Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) -->|
+|  7  | Pearson Correlation Coefficient I  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
+|  7  | Spearman's Rank Correlation Coefficient  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
 |  8  | Least Square Regression Line  |Easy | need to be done <!--[Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) -->|
 |  8  | Pearson Correlation Coefficient II  |Easy | need to be done <!--[Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) -->|
 |  9  | Multiple Linear Regression  |Easy | need to be done <!--[Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
