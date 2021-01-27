@@ -1,4 +1,10 @@
-# ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FQuelleSup%2FHackerrank-Solutions-1&psig=AOvVaw0qfnC8fJ8Cc4J-irECPMtX&ust=1611861947654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjz3OnrvO4CFQAAAAAdAAAAABAD)[HackerRank Solutions](https://www.hackerrank.com/baolo4421)
+<p align="center">
+    <a href="https://www.hackerrank.com/baolo4421">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+    <br>317 Solutions for HackerRank problems
+</p>
+
 ## Table of contents
 |idx | Contents 																			 | Status		 |
 |:--:|:--------------------------------------------------------------------|:--------------|
