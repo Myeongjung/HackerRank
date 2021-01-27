@@ -5,7 +5,7 @@
 |1   | [Python](#1-python) 														 | In progress (91/115) |
 |2   | [SQL](#2-sql)	 																 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
-|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress (22/27)|
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress (26/27)|
 |5   | [Java](#5-java) 															 	 | In progress (60/64) |
 
 ## 1. Python 
@@ -221,8 +221,8 @@
 |  6  | The Central Limit Theorem III  |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%206.py) |
 |  7  | Pearson Correlation Coefficient I  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
 |  7  | Spearman's Rank Correlation Coefficient  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
-|  8  | Least Square Regression Line  |Easy | need to be done <!--[Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) -->|
-|  8  | Pearson Correlation Coefficient II  |Easy | need to be done <!--[Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) -->|
+|  8  | Least Square Regression Line  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
+|  8  | Pearson Correlation Coefficient II  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
 |  9  | Multiple Linear Regression  |Easy | need to be done <!--[Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
 
 
