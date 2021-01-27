@@ -134,63 +134,63 @@
 
 | idx |Question|Difficulty|File Name|
 |:---:|:------:|:--------:|:-------:|
-|1|Revising the Select Query I|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|2|Revising the Select Query II|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|3|Select All|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|4|Select By ID|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|5|Japanese Cities' Attributes|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|6|Japanese Cities' Names|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|7|Weather Observation Station 1|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|8|Weather Observation Station 2|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|9|Weather Observation Station 3|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|10|Weather Observation Station 4|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|11|Weather Observation Station 5|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|12|Weather Observation Station 6|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|13|Weather Observation Station 7|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|14|Weather Observation Station 8|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|15|Weather Observation Station 9|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|16|Weather Observation Station 10|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|17|Weather Observation Station 11|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|18|Weather Observation Station 12|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
-|19|Weather Observation Station 13|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|20|Weather Observation Station 14|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|21|Weather Observation Station 15|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|22|Weather Observation Station 16|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|23|Weather Observation Station 17|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|24|Weather Observation Station 18|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|25|Weather Observation Station 19|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|26|Weather Observation Station 20|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|27|Higher Than 75 Marks|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|28|Employee Names|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|29|Employee Salaries|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|30|Type of Triangle|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
-|31|Revising Aggregations - The Count Function|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|32|Revising Aggregations - The Sum Function|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|33|Revising Aggregations - Averages|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|34|Average Population|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|35|Japan Population|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|36|Population Density Difference|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|37|The Blunder|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|38|Top Earners|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|39|Asian Population|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|40|African Cities|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|41|Average Population of Each Continent|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|42|Draw The Triangle 1|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|43|Draw The Triangle 2|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|44|The PADS|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|45|Occupations|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|46|Binary Tree Nodes|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|47|New Companies|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|2|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|3|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|5|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|6|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|7|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|8|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|9|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|10|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|11|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|12|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|13|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|14|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|15|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|16|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|17|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|18|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|Easy|[Solution #1-18](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%231-18.sql)|
+|19|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|20|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|21|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|22|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|23|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|24|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|25|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|26|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|Medium|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|27|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|28|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|29|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|30|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|Easy|[Solution #19-30](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2319-30.sql)|
+|31|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|32|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|33|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|34|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|35|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|36|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|37|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|38|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|39|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|40|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|41|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|42|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|43|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|Easy|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|44|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|45|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|46|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|47|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 
 ## 3. Interview Preparation Kit
 (based on Python 3)
 
 | idx |Question|Difficulty|Category|File Name|
 |:---:|:------:|:--------:|:------:|:-------:|
-|  1  |Sales by Match|Easy|Warm-up Challenges| [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
-|  2  |Counting Valley|Easy|Warm-up Challenges| [Counting Valley](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys.py) |
-|  3  |Jumping on the Clouds|Easy|Warm-up Challenges| [Jumping on the Clouds](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds.py) |
-|  4  |Repeated String Discussions|Easy|Warm-up Challenges| [Repeated String Discussions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String%20Discussions.py) |
+|  1  |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Sales by Match](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sales%20by%20Match.py) |
+|  2  |[Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Counting Valley](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys.py) |
+|  3  |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Jumping on the Clouds](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds.py) |
+|  4  |[Repeated String Discussions](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Repeated String Discussions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String%20Discussions.py) |
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
