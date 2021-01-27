@@ -19,121 +19,122 @@
 
 | idx |             Question            |  Difficulty  |                                          File Name                                           |
 |:---:|:---------------------------:|:------------:|:---------------------------------------------------------------------------:|
-|  1   | Say "Hello, World!" With Python |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  2   | Python If-Else         |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  3   | Arithmetic Operators      |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  4   | Python: Division        |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  5   | Loops              |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  6   | Print Function         |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  7   | List Comprehensions       |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  8   | Find the Runner-Up Score!    |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
-|  9   | Lists              |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 10  | Nested Lists           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 11  | Tuples             |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 12  | Mutations           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 13  | Finding the percentage      |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 14  | Write a function        |    Medium    | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
-| 15  | String Split and Join      |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 16  | What's Your Name?        |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 17  | Find a string          |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 18  | String Validators        |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 19  | Text Alignment         |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 20  | Text Wrap           |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 21  | Designer Door Mat        |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 22  | Capitalize!          |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 23  | sWAP cASE           |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
-| 24  | String Formatting       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 25  | Alphabet Rangoli       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 26  | itertools.product()       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 27  | collections.Counter()       |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 28  | itertools.permutations()   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 29  | Polar Coordinates   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 30  | Introduction to Sets   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 31  | DefaultDict Tutorial    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 32  | Calendar Module    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 33  | Exceptions     |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 34  | Collections.namedtuple()    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
-| 35  | Collections.OrderedDict()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 36  | Symmetric Difference     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 37  | itertools.combinations()   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 38  | Incorrect Regex   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 39  | Set .add()     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 40  | Set .discard(), .remove() & .pop()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 41  | itertools.combinations_with_replacement()    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 42  | Set .union() Operation     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 43  | Set .intersection() Operation |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 44  | Set .difference() Operation   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 45  | Set .symmetric_difference() Operation  |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
-| 46  | Arrays  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 47  | Mod Divmod  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 48  | Power - Mod Power    |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 49  | Integers Come In All Sizes   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 50  | Set Mutations   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 51  | The Captain's Room   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 52  | Any or All   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 53  | Re.split()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 54  | Re.findall() & Re.finditer()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 55  | Re.start() & Re.end()   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 56  | Collections.deque()    |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
-| 57  | Check Subset   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 58  | Check Strict Superset  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 59  | Class 2 - Find the Torsional Angle   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 60  | Zipped!   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 61  | input()  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 62  | Python Evaluation   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 63  | Detect Floating Point Number    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 64  | Map and Lambda Function    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 65  | Group(), Groups() & Groupdict()   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 66  | Validating Roman Numerals    |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 67  | Validating phone numbers   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 68  | Validating and Parsing Email Addresses   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
-| 69  | Hex Color Code   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 70  | HTML Parser - Part 1  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 71  | HTML Parser - Part 2  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 72  | Detect HTML Tags, Attributes and Attribute Values   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 73  | XML 1 - Find the Score   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 74  | XML2 - Find the Maximum Depth   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 75  | Validating UID   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 76  | Standardize Mobile Number Using Decorators  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 77  | Decorators 2 - Name Directory  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 78  | Shape and Reshape  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 79  | Transpose and Flatten  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 80  | Concatenate  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
-| 81  | Zeros and Ones |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) 
-| 81  | Eye and Identity |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 82  | Array Mathematics |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 83  | Floor, Ceil and Rint |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 84  | Sum and Prod |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 85  | Min and Max |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 86  | Mean, Var, and Std |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 87  | Dot and Cross |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 88  | Inner and Outer |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 89  | Polynomials |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 91  | Linear Algebra |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
-| 92  | The Minion Game| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 93  | Merge the Tools!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 94  | Time Delta| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->||
-| 95  | Find Angle MBC| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 96  | No Idea!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 97  | Word Order| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 98  | Compress the String!| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 99  | Company Logo| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 100|  Piling Up! | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 101|  Triangle Quest 2 | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 102|  Iterables and Iterators | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 103|  Maximize It! | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 104|  Triangle Quest | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 105|  Classes: Dealing with Complex Numbers | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 106|  Athlete Sort | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 107|  ginortS | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 108|  Validating Email Addresses With a Filter | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 109|  Reduce Function | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 110|  Regex Substitution | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 111|  Validating Credit Card Numbers | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 112|  Validating Postal Codes | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 113|  Matrix Script | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 114|  Words Score | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
-| 115|  Default Arguments | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+|  1   | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  2   | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)         |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  3   | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)      |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  4   | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)        |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  5   | [Loops](https://www.hackerrank.com/challenges/python-loops/problem)              |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  6   | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)         |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  7   | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)       |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  8   | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)    |     Easy     | [Solution#1-8](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%231-8.py) |
+|  9   | [Lists](https://www.hackerrank.com/challenges/python-lists/problem)              |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 10  | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)           |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 11  | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)             |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 12  | [Mutations ](https://www.hackerrank.com/challenges/python-mutations/problem)          |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 13  | [Finding the percentage ](https://www.hackerrank.com/challenges/finding-the-percentage/problem)     |     Easy     | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 14  | [Write a function ](https://www.hackerrank.com/challenges/write-a-function/problem)       |    Medium    | [Solution#9-14](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%239-14.py) |
+| 15  | [String Split and Join  ](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)    |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 16  | [What's Your Name?  ](https://www.hackerrank.com/challenges/whats-your-name/problem)      |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 17  | [Find a string     ](https://www.hackerrank.com/challenges/find-a-string/problem)     |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 18  | [String Validators ](https://www.hackerrank.com/challenges/string-validators/problem)       |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 19  | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)         |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 20  | [Text Wrap     ](https://www.hackerrank.com/challenges/text-wrap/problem)      |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 21  | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)        |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 22  | [Capitalize! ](https://www.hackerrank.com/challenges/capitalize)         |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 23  | [sWAP cASE  ](https://www.hackerrank.com/challenges/swap-case/problem)         |     Easy     | [Solution#15-23](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2315-23.py) |
+| 24  | [String Formatting ](https://www.hackerrank.com/challenges/python-string-formatting/problem)      |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 25  | [Alphabet Rangoli ](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)      |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 26  | [itertools.product(https://www.hackerrank.com/challenges/itertools-product/problem) ](https://www.hackerrank.com/challenges/itertools-product/problem)      |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 27  | [collections.Counter()  ](https://www.hackerrank.com/challenges/collections-counter/problem)     |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 28  | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 29  | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 30  | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets)   |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 31  | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 32  | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 33  | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)     |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 34  | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)    |     Easy     | [Solution#24-34](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2324-34.py) |
+| 35  | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 36  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 37  | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 38  | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 39  | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)     |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 40  | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 41  | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 42  | [Set .union() Operation ](https://www.hackerrank.com/challenges/py-set-union/problem)    |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 43  | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 44  | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)   |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 45  | [Set .symmetric_difference() Operation ](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) |     Easy     | [Solution#35-45](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2335-45.py) |
+| 46  | [Arrays ](https://www.hackerrank.com/challenges/np-arrays/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 47  | [Mod Divmod ](https://www.hackerrank.com/challenges/python-mod-divmod/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 48  | [Power - Mod Power ](https://www.hackerrank.com/challenges/python-power-mod-power)   |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 49  | [Integers Come In All Sizes ](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 50  | [Set Mutations  ](https://www.hackerrank.com/challenges/py-set-mutations/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 51  | [The Captain's Room  ](https://www.hackerrank.com/challenges/py-the-captains-room/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 52  | [Any or All ](https://www.hackerrank.com/challenges/any-or-all/problem)  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 53  | [Re.split()  ](https://www.hackerrank.com/challenges/re-split/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 54  | [Re.findall() & Re.finditer()  ](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 55  | [Re.start() & Re.end() ](https://www.hackerrank.com/challenges/re-start-re-end/problem)  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 56  | [Collections.deque()  ](https://www.hackerrank.com/challenges/py-collections-deque)  |     Easy     | [Solution#46-56](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2346-56.py) |
+| 57  | [Check Subset ](https://www.hackerrank.com/challenges/py-check-subset/problem)  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 58  | [Check Strict Superset ](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 59  | [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 60  | [Zipped! ](https://www.hackerrank.com/challenges/zipped/problem)  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 61  | [input() ](https://www.hackerrank.com/challenges/input/problem) |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 62  | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 63  | [Detect Floating Point Number ](https://www.hackerrank.com/challenges/introduction-to-regex/problem)  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 64  | [Map and Lambda Function ](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 65  | [Group(), Groups() & Groupdict() ](https://www.hackerrank.com/challenges/re-group-groups/problem)  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 66  | [Validating Roman Numerals ](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 67  | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)   |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 68  | [Validating and Parsing Email Addresses ](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)  |     Easy     | [Solution#57-68](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2357-68.py) |
+| 69  | [Hex Color Code ](https://www.hackerrank.com/challenges/hex-color-code/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 70  | [HTML Parser - Part 1 ](https://www.hackerrank.com/challenges/html-parser-part-1/problem) |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 71  | [HTML Parser - Part 2 ](https://www.hackerrank.com/challenges/html-parser-part-2/problem) |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 72  | [Detect HTML Tags, Attributes and Attribute Values ](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 73  | [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 74  | [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 75  | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)   |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 76  | [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 77  | [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 78  | [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 79  | [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 80  | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)  |     Easy     | [Solution#69-80](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2369-80.py) |
+| 81  | [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) 
+| 81  | [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 82  | [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 83  | [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 84  | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 85  | [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 86  | [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 87  | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 88  | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 89  | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 91  | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) |     Easy     | [Solution#81-91](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2381-91.py) |
+| 92  | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 93  | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 94  | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->||
+| 95  | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)| Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 96  | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 97  | [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 98  | [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 99  | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 100| [Piling Up! ](https://www.hackerrank.com/challenges/piling-up/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 101| [Triangle Quest 2 ](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 102| [Iterables and Iterators ](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 103| [Triangle Quest ](https://www.hackerrank.com/challenges/python-quest-1/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 104| [Classes: Dealing with Complex Numbers ](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 105| [Athlete Sort ](https://www.hackerrank.com/challenges/python-sort-sort/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 106| [ginortS ](https://www.hackerrank.com/challenges/ginorts/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 107| [Validating Email Addresses With a Filter ](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 108| [Reduce Function ](https://www.hackerrank.com/challenges/reduce-function/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 109| [Regex Substitution ](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 110| [Validating Credit Card Numbers ](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 111| [Words Score ](https://www.hackerrank.com/challenges/words-score/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 112| [Default Arguments ](https://www.hackerrank.com/challenges/default-arguments/problem) | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 113| [Validating Postal Codes ]() | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 114| [Matrix Script ]() | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+| 115| [Maximize It! ]() | Medium | need to be done <!--[Day ](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+
 
 ## 2. SQL
 (based on MySQL)
