@@ -28,4 +28,4 @@
 |  7  | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
 |  8  | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
 |  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem)  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
-|  9  | [Multiple Linear Regression]()  |Easy | need to be done <!--[Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+|  9  | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) |Medium | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) |

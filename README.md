@@ -11,7 +11,7 @@
 |1   | [Python](#1-python) 														 | In progress (91/115) |
 |2   | [SQL](#2-sql)	 																 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
-|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | In progress (26/27)|
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | Completed |
 |5   | [Java](#5-java) 															 	 | In progress (60/64) |
 
 ## 1. Python 
@@ -230,7 +230,7 @@
 |  7  | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)  |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%207.py) |
 |  8  | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
 |  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem)  |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%208.py) |
-|  9  | [Multiple Linear Regression]()  |Easy | need to be done <!--[Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) -->|
+|  9  | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) |Medium | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Statistics/Day%209.py) |
 
 
 ## 5. Java
