@@ -428,13 +428,114 @@ public class Solution {
 }   
 
 // 61. Java Comparator
-
+class Checker implements Comparator<Player> {
+    @Override
+    public int compare (Player a, Player b){
+        return (a.score>b.score?-1:(a.score==b.score)?a.name.compareTo(b.name):1);
+    }
+}
 
 // 62. Java Dequeue
+    import java.util.*;
+    public class test {
+        public static void main(String[] args) {
+            Scanner in = new Scanner(System.in);
+            Deque<Integer> deque = new ArrayDeque<>();
+            Set<Integer> set = new HashSet<>();
+            
+            int n = in.nextInt();
+            int m = in.nextInt();
+            int unique = Integer.MIN_VALUE;
 
+            for (int i = 0; i < n; i++) {
+                int num = in.nextInt();
+                deque.add(num);
+                set.add(num);
+                
+                if(deque.size() == m) {
+                    if(set.size() > unique) unique = set.size();
+                    int first = deque.remove();
+                    if (!deque.contains(first)) set.remove(first);
+                }                
+            }
+            
+            System.out.println(unique);
+        }
+    }
 
 // 63. Java Priority Queue
+import java.util.PriorityQueue;
+import java.util.Comparator;
 
+class Student {
+    int id;
+    String name;
+    double cgpa;
+    
+    Student(int id, String name, double cgpa){
+        this.id = id;
+        this.name = name;
+        this.cgpa = cgpa;
+    }
+    
+    int getID() {return this.id;}
+    String getName() {return this.name;}
+    double getCGPA() {return this.cgpa;}
+}
+
+class Priorities {
+    List<Student> getStudents(List<String> events) {
+        PriorityQueue<Student> pq = new PriorityQueue(
+        Comparator.comparing(Student::getCGPA).reversed()
+        .thenComparing(Student::getName)
+        .thenComparing(Student::getID));
+        List<Student> students = new ArrayList<Student>();
+        
+        for (String input: events) {
+            String[] s = new String[4];
+            s = input.split(" ");
+               
+            if(s[0].equals("ENTER")){
+                int id = Integer.parseInt(s[3]);
+                double cgpa = Double.parseDouble(s[2]);
+                pq.add(new Student(id,s[1],cgpa));
+            } else if (s[0].equals("SERVED")) {
+                Student first = pq.poll();
+            }
+        }
+        
+        Student first = pq.poll();
+        if (first == null) {
+            return students;
+        } else {
+            while (first != null) {
+                students.add(first);
+                first = pq.poll();
+            }
+            return students;
+        }
+    }
+}
 
 // 64. Java SHA-256
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+import java.nio.charset.StandardCharsets; 
+import java.security.*;
+   
+public class Solution {
+    public static void main(String[] args) throws NoSuchAlgorithmException {
+        Scanner scan = new Scanner(System.in);
+        String s = scan.nextLine();
+        MessageDigest messageDigest = MessageDigest.getInstance("SHA-256");
+        messageDigest.update(s.getBytes());
+        byte[] hash = messageDigest.digest();
 
+        for (byte b : hash) {
+            System.out.printf("%02x", b);
+        }
+    }
+}

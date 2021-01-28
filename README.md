@@ -12,7 +12,7 @@
 |2   | [SQL](#2-sql)	 																 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | Completed |
-|5   | [Java](#5-java) 															 	 | In progress (60/64) |
+|5   | [Java](#5-java) 															 	 | Completed |
 
 ## 1. Python 
 (based on Python 3)
