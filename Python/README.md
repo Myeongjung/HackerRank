@@ -104,8 +104,8 @@
 | 100| [Piling Up! ](https://www.hackerrank.com/challenges/piling-up/problem) | Medium | [Solution#92-102](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2392-102.py) |
 | 101| [Iterables and Iterators ](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | Medium | [Solution#92-102](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2392-102.py) |
 | 102| [Maximize It! ](https://www.hackerrank.com/challenges/maximize-it/problem) | Hard | [Solution#92-102](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%2392-102.py) |
-| 103| [Triangle Quest ](https://www.hackerrank.com/challenges/python-quest-1/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 104| [Triangle Quest 2 ](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
+| 103| [Triangle Quest ](https://www.hackerrank.com/challenges/python-quest-1/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 104| [Triangle Quest 2 ](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 105| [Classes: Dealing with Complex Numbers ](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
 | 106| [Athlete Sort ](https://www.hackerrank.com/challenges/python-sort-sort/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
 | 107| [ginortS ](https://www.hackerrank.com/challenges/ginorts/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
