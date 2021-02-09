@@ -6,12 +6,12 @@
 </p>
 
 ## Table of contents
-|idx | Contents 																			 | Status		 |
+|idx | Contents 																		 | Status		 |
 |:--:|:--------------------------------------------------------------------|:--------------|
-|1   | [Python](#1-python) 														 | In progress (106/115) |
-|2   | [SQL](#2-sql)	 																 | In progress (47/58) |
+|1   | [Python](#1-python) 														 | Completed |
+|2   | [SQL](#2-sql)	 															 | In progress (47/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (4/69)|
-|4   | [10 Days of Statistics](#4-10-days-of-statistics) 					 | Completed |
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 
 ## 1. Python 
@@ -126,14 +126,14 @@
 | 105| [Classes: Dealing with Complex Numbers ](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 106| [Athlete Sort ](https://www.hackerrank.com/challenges/python-sort-sort/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 107| [ginortS ](https://www.hackerrank.com/challenges/ginorts/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
-| 108| [Validating Email Addresses With a Filter ](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 109| [Reduce Function ](https://www.hackerrank.com/challenges/reduce-function/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 110| [Regex Substitution ](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 111| [Validating Credit Card Numbers ](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 112| [Validating Postal Codes ](https://www.hackerrank.com/challenges/validating-postalcode/problem) | Hard | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 113| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) | Hard | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 114| [Words Score ](https://www.hackerrank.com/challenges/words-score/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
-| 115| [Default Arguments ](https://www.hackerrank.com/challenges/default-arguments/problem) | Medium | need to be done <!--[Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) -->|
+| 108| [Validating Email Addresses With a Filter ](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 109| [Reduce Function ](https://www.hackerrank.com/challenges/reduce-function/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 110| [Regex Substitution ](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 111| [Validating Credit Card Numbers ](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 112| [Validating Postal Codes ](https://www.hackerrank.com/challenges/validating-postalcode/problem) | Hard | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 113| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) | Hard | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 114| [Words Score ](https://www.hackerrank.com/challenges/words-score/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 115| [Default Arguments ](https://www.hackerrank.com/challenges/default-arguments/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 
 
 ## 2. SQL

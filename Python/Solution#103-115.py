@@ -88,10 +88,106 @@ print(''.join(l) + ''.join(u) + ''.join(o) + ''.join(e))
 #print(*(s),sep = '')
 
 # 108. Validating Email Addresses With a Filter
+import re
+
+re_exp = r"^[\w-]+\@[0-9a-zA-Z]+\.[a-z]{1,3}$"
+
+def fun(s):
+    return re.match(re_exp, s)
+
 # 109. Reduce Function
+from fractions import Fraction
+from functools import reduce
+
+def product(fracs):
+    t = reduce(lambda x, y : x * y, fracs)
+    return t.numerator, t.denominator
+
+if __name__ == '__main__':
+    fracs = []
+    for _ in range(int(input())):
+        fracs.append(Fraction(*map(int, input().split())))
+    result = product(fracs)
+    print(*result)
+	
 # 110. Regex Substitution
+import re
+
+def func(match):
+    if "&&" in match.group():
+        return("and")
+    else:
+        return("or")
+
+for _ in range(int(input())):
+    n = input()
+    print(re.sub(r"(?<= )(&&|\|\|)(?= )", func, n))
+	
 # 111. Validating Credit Card Numbers
+import re
+
+re_exp = r"^[456]([\d]{15}|[\d]{3}(-[\d]{4}){3})$"
+
+for _ in range(int(input())):
+    s = input()
+
+    if re.match(re_exp, s) and not re.search(r"([\d])\1{3}", s.replace("-", "")):
+        print("Valid")
+    else:
+        print("Invalid")
+		
 # 112. Validating Postal Codes
+regex_integer_in_range = r"^[1-9][\d]{5}$"	# Do not delete 'r'.
+regex_alternating_repetitive_digit_pair = r"(\d)(?=\d\1)"	# Do not delete 'r'.
+
 # 113. Matrix Script
 # 114. Words Score
+def is_vowel(letter):
+    return letter in ['a', 'e', 'i', 'o', 'u', 'y']
+
+def score_words(words):
+    score = 0
+    for word in words:
+        num_vowels = 0
+        for letter in word:
+            if is_vowel(letter):
+                num_vowels += 1
+        if num_vowels % 2 == 0:
+            score += 2
+        else:
+            score += 1
+    return score
+
 # 115. Default Arguments
+class EvenStream(object):
+    def __init__(self):
+        self.current = 0
+
+    def get_next(self):
+        to_return = self.current
+        self.current += 2
+        return to_return
+
+class OddStream(object):
+    def __init__(self):
+        self.current = 1
+
+    def get_next(self):
+        to_return = self.current
+        self.current += 2
+        return to_return
+
+def print_from_stream(n, stream=EvenStream()):
+    stream.__init__()
+    for _ in range(n):
+        print(stream.get_next())
+
+
+queries = int(input())
+for _ in range(queries):
+    stream_name, n = input().split()
+    n = int(n)
+    if stream_name == "even":
+        print_from_stream(n)
+    else:
+        print_from_stream(n, OddStream())
