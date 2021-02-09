@@ -65,6 +65,28 @@ if __name__ == '__main__':
         print(*i)
 
 # 107. ginortS
+n = input()
+l, u, e, o = '','','',''
+
+for c in n:
+    if c.isdigit() and int(c)%2 == 0:
+        e += c
+    elif c.islower():
+        l += c
+    elif c.isupper():
+        u += c
+    else:
+        o += c
+
+l, u, e, o = sorted(l), sorted(u), sorted(e), sorted(o)
+
+print(''.join(l) + ''.join(u) + ''.join(o) + ''.join(e))
+
+#Using sorted keys
+#s = input()
+#s = sorted(s,key = lambda x:(x.isdigit() and int(x)%2==0, x.isdigit(), x.isupper(),x.islower(),x))
+#print(*(s),sep = '')
+
 # 108. Validating Email Addresses With a Filter
 # 109. Reduce Function
 # 110. Regex Substitution
