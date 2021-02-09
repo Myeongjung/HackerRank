@@ -141,6 +141,33 @@ regex_integer_in_range = r"^[1-9][\d]{5}$"	# Do not delete 'r'.
 regex_alternating_repetitive_digit_pair = r"(\d)(?=\d\1)"	# Do not delete 'r'.
 
 # 113. Matrix Script
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+first_multiple_input = input().rstrip().split()
+
+n = int(first_multiple_input[0])
+
+m = int(first_multiple_input[1])
+
+matrix = []
+
+for _ in range(n):
+    matrix_item = input()
+    matrix.append(matrix_item)
+
+s = ""
+for i in zip(*matrix):
+    s += "".join(i)
+    
+print(re.sub(r"(?<=\w)([^\w]+)(?=\w)", " ", s))
+
 # 114. Words Score
 def is_vowel(letter):
     return letter in ['a', 'e', 'i', 'o', 'u', 'y']
