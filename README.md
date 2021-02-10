@@ -198,6 +198,12 @@
 |  2  |[Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Counting Valley](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys.py) |
 |  3  |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Jumping on the Clouds](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds.py) |
 |  4  |[Repeated String Discussions](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)|Easy|Warm-up Challenges| [Repeated String Discussions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String%20Discussions.py) |
+|  5  |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | Easy | Array | [2D Array - DS]() |
+|  6  |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | Easy | Array | [Left Rotation]() |
+|  7  |[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium | Array | [New Year Chaos]() |
+|  8  |[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium | Array | [Minimum Swaps 2]() |
+|  9  |[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Hard | Array | [Array Manipulation]() |
+<?--|  10|[]() | Easy |  | []() |-->
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
