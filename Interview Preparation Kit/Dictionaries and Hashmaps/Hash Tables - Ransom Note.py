@@ -6,21 +6,27 @@ import random
 import re
 import sys
 
-# Complete the repeatedString function below.
-def repeatedString(s, n):
-    count = s.count('a') * (n//len(s)) + s[:n%len(s)].count('a')
+# Complete the checkMagazine function below.
+def checkMagazine(magazine, note):
+    for c in note:
+        try:
+            idx = magazine.index(c)
+            magazine.pop(idx)
+        except:
+            print("No")
+            return
+        
+    print("Yes")
     
-    return count
-
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    mn = input().split()
 
-    s = input()
+    m = int(mn[0])
 
-    n = int(input())
+    n = int(mn[1])
 
-    result = repeatedString(s, n)
+    magazine = input().rstrip().split()
 
-    fptr.write(str(result) + '\n')
+    note = input().rstrip().split()
 
-    fptr.close()
+    checkMagazine(magazine, note)
