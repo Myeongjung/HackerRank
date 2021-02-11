@@ -203,7 +203,18 @@
 |  7  |[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium | Array | [New Year Chaos](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Arrays/New%20Year%20Chaos.py) |
 |  8  |[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium | Array | [Minimum Swaps 2](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Arrays/Minimum%20Swaps%202.py) |
 |  9  |[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Hard | Array | [Array Manipulation](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Arrays/Array%20Manipulation.py) |
-<?--|  10|[]() | Easy |  | []() |-->
+|  10| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Easy |  | [Hash Tables - Ransom Note]() |
+|  11| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Easy |  | [Two Strings]() |
+|  12| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Medium | Dictionaries and Hashmaps | [Sherlock and Anagrams]() |
+|  13| [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Medium | Dictionaries and Hashmaps | [Count Triplets]() |
+|  14| [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Medium | Dictionaries and Hashmaps | [Frequency Queries]() |
+|  15| []() | Easy | Sorting | []() |
+|  16| []() | Easy | Sorting | []() |
+|  17| []() | Easy | Sorting | []() |
+|  18| []() | Easy | Sorting | []() |
+|  19| []() | Easy | Sorting | []() |
+|  20| []() | Easy |  | []() |
+|  21| []() | Easy |  | []() |
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
