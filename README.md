@@ -10,9 +10,10 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (47/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (9/69)|
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (15/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
+|6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | In progress (2/25) |
 
 ## 1. Python 
 (based on Python 3)
@@ -318,3 +319,5 @@
 |62| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |63| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |64| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+
+## 6. 10 Days of Javascript
