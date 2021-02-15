@@ -49,3 +49,6 @@
 |45|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 |46|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 |47|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
+|48|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
+|49|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
+|50|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|

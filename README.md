@@ -10,7 +10,7 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (50/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (15/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (17/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
@@ -218,8 +218,8 @@
 |  15| [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Easy | Sorting | [Bubble Sort](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Bubble%20Sort.py) |
 |  16| [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | Easy | Sorting | [Mark and Toys](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Mark%20and%20Toys.py) |
 |  17| [Sorting Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Medium | Sorting | [Comparator](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Comparator.py) |
-|  18| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Medium | Sorting | [Fraudulent Activity Notifications]() |
-|  19| [Merge Sort: Counting Inversions]() | Hard | Sorting | [Merge Sort - Counting Inversions]() |
+|  18| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Medium | Sorting | [Fraudulent Activity Notifications](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Fraudulent%20Activity%20Notifications.py) |
+|  19| [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Hard | Sorting | [Merge Sort - Counting Inversions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Merge%20Sort%20-%20Counting%20Inversions.py) |
 |  20| []() | Easy |  | []() |
 |  21| []() | Easy |  | []() |
 
