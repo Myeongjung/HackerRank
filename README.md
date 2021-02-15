@@ -13,7 +13,7 @@
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (15/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
-|6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | In progress (19/25) |
+|6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
 
 ## 1. Python 
 (based on Python 3)
@@ -351,6 +351,6 @@
 |  7  | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207.js) |
 |  7  | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207.js) |
 |  7  | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207.js) |
-|  8  | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.js) |
-|  8  | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.js) |
+|  8  | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.html) |
+|  8  | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.html) |
 |  9  | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%209.js) |
