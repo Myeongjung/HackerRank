@@ -10,7 +10,7 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (50/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (21/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (22/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
