@@ -10,7 +10,7 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (50/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (17/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (21/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
@@ -220,8 +220,18 @@
 |  17| [Sorting Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Medium | Sorting | [Comparator](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Comparator.py) |
 |  18| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Medium | Sorting | [Fraudulent Activity Notifications](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Fraudulent%20Activity%20Notifications.py) |
 |  19| [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Hard | Sorting | [Merge Sort - Counting Inversions](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Sorting/Merge%20Sort%20-%20Counting%20Inversions.py) |
-|  20| []() | Easy |  | []() |
-|  21| []() | Easy |  | []() |
+|  20| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy | String Manipulation | [Making Anagrams]() |
+|  21| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy | String Manipulation | [Alternating Characters]() |
+|  22| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Sherlock and the Valid String]() |
+|  23| [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Special String Again]() |
+|  24| [Common Child](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Common Child]() |
+|  25| []() | Easy |  | []() |
+|  26| []() | Easy |  | []() |
+|  27| []() | Easy |  | []() |
+|  28| []() | Easy |  | []() |
+|  29| []() | Easy |  | []() |
+|  30| []() | Easy |  | []() |
+|  31| []() | Easy |  | []() |
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
