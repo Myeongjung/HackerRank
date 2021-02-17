@@ -229,15 +229,53 @@
 |  20| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy | String Manipulation | [Making Anagrams](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Making%20Anagrams.py) |
 |  21| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy | String Manipulation | [Alternating Characters](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Alternating%20Characters.py) |
 |  22| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Sherlock and the Valid String](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Sherlock%20and%20the%20Valid%20String.py) |
-|  23| [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Special String Again](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Special%20String%20Again.py) |
-|  24| [Common Child](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Common Child](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Common%20Child.py) |
-|  25| []() | Easy |  | []() |
-|  26| []() | Easy |  | []() |
-|  27| []() | Easy |  | []() |
-|  28| []() | Easy |  | []() |
-|  29| []() | Easy |  | []() |
-|  30| []() | Easy |  | []() |
-|  31| []() | Easy |  | []() |
+|  23| [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | <!-- [Special String Again](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Special%20String%20Again.py) -->|
+|  24| [Common Child](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | <!-- [Common Child](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Common%20Child.py) -->|
+|  25| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Minimum Absolute Difference in an Array]() |
+|  26| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Luck Balance]() |
+|  27| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Greedy Florist]() -->|
+|  28| [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Max Min]() -->|
+|  29| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Hard | Greedy Algorithms | <!-- [Reverse Shuffle Merge]() -->|
+|  30| [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Hash Tables - Ice Cream Parlor]() -->|
+|  31| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium | Search |<!-- [Swap Nodes [Algo]]() -->|
+|  32| [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Pairs]() -->|
+|  33| [Triple sum]()https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search | Medium | Search |<!-- [Triple sum]() -->|
+|  34| [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Minimum Time Required]() -->|
+|  35| [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Maximum Subarray Sum]() -->|
+|  36| [Making Candies](https://www.hackerrank.com/challenges/making-candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Making Candies]() -->|
+|  37| []() | Easy |  |<!-- []() -->|
+|  38| []() | Easy |  |<!-- []() -->|
+|  39| []() | Easy |  |<!-- []() -->|
+|  40| []() | Easy |  |<!-- []() -->|
+|  41| []() | Easy |  |<!-- []() -->|
+|  42| []() | Easy |  |<!-- []() -->|
+|  43| []() | Easy |  |<!-- []() -->|
+|  44| []() | Easy |  |<!-- []() -->|
+|  45| []() | Easy |  |<!-- []() -->|
+|  46| []() | Easy |  |<!-- []() -->|
+|  47| []() | Easy |  |<!-- []() -->|
+|  48| []() | Easy |  |<!-- []() -->|
+|  49| []() | Easy |  |<!-- []() -->|
+|  50| []() | Easy |  |<!-- []() -->|
+|  51| []() | Easy |  |<!-- []() -->|
+|  52| []() | Easy |  |<!-- []() -->|
+|  53| []() | Easy |  |<!-- []() -->|
+|  54| []() | Easy |  |<!-- []() -->|
+|  55| []() | Easy |  |<!-- []() -->|
+|  56| []() | Easy |  |<!-- []() -->|
+|  57| []() | Easy |  |<!-- []() -->|
+|  58| []() | Easy |  |<!-- []() -->|
+|  59| []() | Easy |  |<!-- []() -->|
+|  60| []() | Easy |  |<!-- []() -->|
+|  61| []() | Easy |  |<!-- []() -->|
+|  62| []() | Easy |  |<!-- []() -->|
+|  63| []() | Easy |  |<!-- []() -->|
+|  64| []() | Easy |  |<!-- []() -->|
+|  65| []() | Easy |  |<!-- []() -->|
+|  66| []() | Easy |  |<!-- []() -->|
+|  67| []() | Easy |  |<!-- []() -->|
+|  68| []() | Easy |  |<!-- []() -->|
+|  69| []() | Easy |  |<!-- []() -->|
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
