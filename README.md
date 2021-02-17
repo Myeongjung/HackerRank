@@ -9,7 +9,7 @@
 |idx | Contents 																		 | Status		 |
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
-|2   | [SQL](#2-sql)	 															 | In progress (50/58) |
+|2   | [SQL](#2-sql)	 															 | In progress (51/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (22/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
@@ -189,11 +189,17 @@
 |45|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 |46|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
 |47|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|Medium|[Solution #31-47](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2331-47.sql)|
-|48|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
-|49|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
-|50|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
-|51|[]()|Medium|[Solution #48-](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-.sql)|
-
+|48|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|49|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|50|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|51|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|52|[Challenges](https://www.hackerrank.com/challenges/challenges/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
 
 
 ## 3. Interview Preparation Kit

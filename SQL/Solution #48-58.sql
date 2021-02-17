@@ -46,3 +46,15 @@ End $$
 
 call getPrime(1000, @result);
 select substr(@result, 1, length(@result)-1);
+
+--51. Ollivander's Inventory
+SELECT W.ID, P.AGE, W.COINS_NEEDED, W.POWER
+FROM WANDS W JOIN WANDS_PROPERTY P 
+    ON W.CODE = P.CODE
+WHERE P.IS_EVIL = 0 
+  AND W.COINS_NEEDED = (
+      SELECT MIN(COINS_NEEDED) 
+      FROM WANDS 
+      WHERE CODE = W.CODE
+        AND POWER = W.POWER)
+ORDER BY W.POWER DESC, P.AGE DESC
