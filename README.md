@@ -10,7 +10,7 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (52/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (22/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (25/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
@@ -231,51 +231,51 @@
 |  22| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | [Sherlock and the Valid String](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Sherlock%20and%20the%20Valid%20String.py) |
 |  23| [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | <!-- [Special String Again](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Special%20String%20Again.py) -->|
 |  24| [Common Child](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Medium | String Manipulation | <!-- [Common Child](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/String%20Manipulation/Common%20Child.py) -->|
-|  25| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Minimum Absolute Difference in an Array]() |
-|  26| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Luck Balance]() |
-|  27| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Greedy Florist]() -->|
-|  28| [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Max Min]() -->|
-|  29| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Hard | Greedy Algorithms | <!-- [Reverse Shuffle Merge]() -->|
-|  30| [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Hash Tables - Ice Cream Parlor]() -->|
-|  31| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium | Search |<!-- [Swap Nodes [Algo]]() -->|
-|  32| [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Pairs]() -->|
-|  33| [Triple sum]()https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search | Medium | Search |<!-- [Triple sum]() -->|
-|  34| [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Minimum Time Required]() -->|
-|  35| [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Maximum Subarray Sum]() -->|
-|  36| [Making Candies](https://www.hackerrank.com/challenges/making-candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Making Candies]() -->|
-|  37| []() | Easy |  |<!-- []() -->|
-|  38| []() | Easy |  |<!-- []() -->|
-|  39| []() | Easy |  |<!-- []() -->|
-|  40| []() | Easy |  |<!-- []() -->|
-|  41| []() | Easy |  |<!-- []() -->|
-|  42| []() | Easy |  |<!-- []() -->|
-|  43| []() | Easy |  |<!-- []() -->|
-|  44| []() | Easy |  |<!-- []() -->|
-|  45| []() | Easy |  |<!-- []() -->|
-|  46| []() | Easy |  |<!-- []() -->|
-|  47| []() | Easy |  |<!-- []() -->|
-|  48| []() | Easy |  |<!-- []() -->|
-|  49| []() | Easy |  |<!-- []() -->|
-|  50| []() | Easy |  |<!-- []() -->|
-|  51| []() | Easy |  |<!-- []() -->|
-|  52| []() | Easy |  |<!-- []() -->|
-|  53| []() | Easy |  |<!-- []() -->|
-|  54| []() | Easy |  |<!-- []() -->|
-|  55| []() | Easy |  |<!-- []() -->|
-|  56| []() | Easy |  |<!-- []() -->|
-|  57| []() | Easy |  |<!-- []() -->|
-|  58| []() | Easy |  |<!-- []() -->|
-|  59| []() | Easy |  |<!-- []() -->|
-|  60| []() | Easy |  |<!-- []() -->|
-|  61| []() | Easy |  |<!-- []() -->|
-|  62| []() | Easy |  |<!-- []() -->|
-|  63| []() | Easy |  |<!-- []() -->|
-|  64| []() | Easy |  |<!-- []() -->|
-|  65| []() | Easy |  |<!-- []() -->|
-|  66| []() | Easy |  |<!-- []() -->|
-|  67| []() | Easy |  |<!-- []() -->|
-|  68| []() | Easy |  |<!-- []() -->|
-|  69| []() | Easy |  |<!-- []() -->|
+|  25| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Minimum Absolute Difference in an Array](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Greedy%20Algorithms/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
+|  26| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Easy | Greedy Algorithms | [Luck Balance](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Greedy%20Algorithms/Luck%20Balance.py) |
+|  27| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Greedy Florist](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Greedy%20Algorithms/Greedy%20Florist.py) -->|
+|  28| [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Medium | Greedy Algorithms | <!-- [Max Min](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Greedy%20Algorithms/Max%20Min.py) -->|
+|  29| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | Hard | Greedy Algorithms | <!-- [Reverse Shuffle Merge](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Greedy%20Algorithms/Reverse%20Shuffle%20Merge.py) -->|
+|  30| [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Hash Tables - Ice Cream Parlor](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Hash%20Tables%20-%20Ice%20Cream%20Parlor.py) -->|
+|  31| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium | Search |<!-- [Swap Nodes [Algo]](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Swap%20Nodes%20%5BAlgo%5D.py) -->|
+|  32| [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Pairs](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Pairs.py) -->|
+|  33| [Triple sum]()https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search | Medium | Search |<!-- [Triple sum](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Triple%20sum.py) -->|
+|  34| [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium | Search |<!-- [Minimum Time Required](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Minimum%20Time%20Required.py) -->|
+|  35| [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Maximum Subarray Sum](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Maximum%20Subarray%20Sum.py) -->|
+|  36| [Making Candies](https://www.hackerrank.com/challenges/making-candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Hard | Search |<!-- [Making Candies](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Search/Making%20Candies.py) -->|
+|  37| [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking) | Easy | Recursion and Backtracking | [Fibonacci Numbers]() |
+|  38| [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=recursion-backtracking) | Medium | Recursion and Backtracking |<!-- [Davis' Staircase]() -->|
+|  39| [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=recursion-backtracking) | Medium | Recursion and Backtracking |<!-- [Crossword Puzzle]() -->|
+|  40| [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=recursion-backtracking) | Medium | Recursion and Backtracking |<!-- [Recursive Digit Sum]() -->|
+|  41| [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming |<!-- [Max Array Sum]() -->|
+|  42| [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming |<!-- [Abbreviation]() -->|
+|  43| [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming |<!-- [Candies]() -->|
+|  44| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Hard | Dynamic Programming |<!-- [Decibinary Numbers]() -->|
+|  45| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues |<!-- [Balanced Brackets]() -->|
+|  46| [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues |<!-- [A Tale of Two Stacks]() -->|
+|  47| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues |<!-- [Largest Rectangle]() -->|
+|  48| [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues |<!-- [Min Max Riddle]() -->|
+|  49| [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues |<!-- [Castle on the Grid]() -->|
+|  50| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Hard | Stacks and Queues |<!-- [Poisonous Plants]() -->|
+|  51| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Roads and Libraries]() -->|
+|  52| [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Find the nearest clone]() -->|
+|  53| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [BFS - Shortest Reach in a Graph]() -->|
+|  54| [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [DFS - Connected Cell in a Grid]() -->|
+|  55| [Matrix](https://www.hackerrank.com/challenges/matrix/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [Matrix]() -->|
+|  56| [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=trees) | Easy | Trees  |<!-- [Height of a Binary Tree]() -->|
+|  57| [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=trees) | Easy | Trees  |<!-- [Lowest Common Ancestor]() -->|
+|  58| [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=trees) | Medium | Trees  |<!-- [Is This a Binary Search Tree]() -->|
+|  59| [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=trees) | Medium | Trees  |<!-- [Huffman Decoding]() -->|
+|  60| [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=trees) | Hard | Trees  |<!-- [Balanced Forest]() -->|
+|  61| [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | Easy | Linked Lists |<!-- [Insert a node at a specific position in a linked list]() -->|
+|  62| [Inserting a Node Into a Sorted Doubly Linked Lis](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists |<!-- [Inserting a Node Into a Sorted Doubly Linked List]() -->|
+|  63| [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists |<!-- [Reverse a doubly linked list]() -->|
+|  64| [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists |<!-- [Find Merge Point of Two Lists]() -->|
+|  65| [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists |<!-- [Detect a Cycle]() -->|
+|  66| [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Easy | Miscellaneous  |<!-- [Flipping bits]() -->|
+|  67| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Primality]() -->|
+|  68| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Friend Circle Queries]() -->|
+|  69| [Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Maximum Xor]() -->|
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
