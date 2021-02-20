@@ -48,10 +48,8 @@ def print_singly_linked_list(node, sep, fptr):
 #
 def findMergeNode(head1, head2):
     A, B = head1, head2
-
-    if A == B:
-        return B.data
-    else:
+    
+    while A != B:
         if A.next == None:
             A = head1
         else:
@@ -60,7 +58,8 @@ def findMergeNode(head1, head2):
             B = head2
         else:
             B = B.next 
-        return (findMergeNode(A,B))
+
+    return B.data
         
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
