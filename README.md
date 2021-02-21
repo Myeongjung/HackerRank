@@ -9,7 +9,7 @@
 |idx | Contents 																		 | Status		 |
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
-|2   | [SQL](#2-sql)	 															 | In progress (52/58) |
+|2   | [SQL](#2-sql)	 															 | In progress (53/58) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (33/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
@@ -194,7 +194,7 @@
 |50|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |51|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |52|[Challenges](https://www.hackerrank.com/challenges/challenges/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
-|53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
 |55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
 |56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
