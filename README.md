@@ -9,8 +9,8 @@
 |idx | Contents 																		 | Status		 |
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
-|2   | [SQL](#2-sql)	 															 | In progress (53/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (47/69) |
+|2   | [SQL](#2-sql)	 															 | In progress (55/58) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (55/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
@@ -196,7 +196,7 @@
 |51|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |52|[Challenges](https://www.hackerrank.com/challenges/challenges/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
-|54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
 |56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
 |57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
@@ -249,8 +249,8 @@
 |  39| [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=recursion-backtracking) | Medium | Recursion and Backtracking | [Crossword Puzzle](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/Crossword%20Puzzle.py) |
 |  40| [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=recursion-backtracking) | Medium | Recursion and Backtracking | [Recursive Digit Sum](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/Recursive%20Digit%20Sum.py) |
 |  41| [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming | [Max Array Sum](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Max%20Array%20Sum.py) |
-|  42| [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming |<!-- [Abbreviation](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Abbreviation.py) -->|
-|  43| [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming |<!-- [Candies](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Candies.py) -->|
+|  42| [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming | [Abbreviation](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Abbreviation.py) |
+|  43| [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Medium | Dynamic Programming | [Candies](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Candies.py) |
 |  44| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dynamic-programming) | Hard | Dynamic Programming |<!-- [Decibinary Numbers](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Dynamic%20Programming/Decibinary%20Numbers.py) -->|
 |  45| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Balanced Brackets](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Balanced%20Brackets.py) |
 |  46| [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [A Tale of Two Stacks](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/A%20Tale%20of%20Two%20Stacks.py) |
@@ -416,7 +416,7 @@
 | Days |Question|Difficulty|File Name|
 |:---:|:------:|:--------:|:-------:|
 |  0    | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%200.py) |
-|  1    | [Day 1: Data Types]() |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%201.py) |
+|  1    | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%201.py) |
 |  2    | [Day 2: Operators]() |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%202.py) |
 |  3    | [Day 3: Intro to Conditional Statements]() |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%203.py) |
 |  4    | [Day 4: Class vs. Instance]() |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%204.py) |
