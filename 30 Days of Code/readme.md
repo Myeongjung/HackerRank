@@ -4,8 +4,8 @@
 |:---:|:------:|:--------:|:-------:|
 |  0    | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%200.py) |
 |  1    | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%201.py) |
-|  2    | [Day 2: Operators]() |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%202.py) |
-|  3    | [Day 3: Intro to Conditional Statements]() |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%203.py) |
+|  2    | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%202.py) |
+|  3    | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%203.py) |
 |  4    | [Day 4: Class vs. Instance]() |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%204.py) |
 |  5    | [Day 5: Loops]() |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%205.py) |
 |  6    | [Day 6: Let's Review]() |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%206.py) |

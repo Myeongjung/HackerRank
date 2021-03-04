@@ -10,11 +10,11 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (55/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (55/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (57/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (47/69) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (4/30) |
 
 ## 1. Python 
 (based on Python 3)
@@ -257,7 +257,7 @@
 |  47| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Largest Rectangle](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Largest%20Rectangle.py) |
 |  48| [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Min Max Riddle](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Min%20Max%20Riddle.py) |
 |  49| [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Castle on the Grid](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Castle%20on%20the%20Grid.py) |
-|  50| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Hard | Stacks and Queues |<!-- [Poisonous Plants](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Poisonous%20Plants.py) -->|
+|  50| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Hard | Stacks and Queues | [Poisonous Plants](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Poisonous%20Plants.py) |
 |  51| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Roads and Libraries](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/Roads%20and%20Libraries.py) -->|
 |  52| [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Find the nearest clone](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/Find%20the%20nearest%20clone.py) -->|
 |  53| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [BFS - Shortest Reach in a Graph](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/BFS%20-%20Shortest%20Reach%20in%20a%20Graph.py) -->|
@@ -274,9 +274,9 @@
 |  64| [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists | [Find Merge Point of Two Lists](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists.py) |
 |  65| [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | Easy | Linked Lists | [Detect a Cycle](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Linked%20Lists/Detect%20a%20Cycle.py) |
 |  66| [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Easy | Miscellaneous  | [Flipping bits](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Flipping%20bits.py) |
-|  67| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Primality](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Primality.py) -->|
-|  68| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Friend Circle Queries](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Friend%20Circle%20Queries.py) -->|
-|  69| [Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  |<!-- [Maximum Xor](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Maximum%20Xor.py) -->|
+|  67| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  | [Primality](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Primality.py) |
+|  68| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  | [Friend Circle Queries](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Friend%20Circle%20Queries.py) |
+|  69| [Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous) | Medium | Miscellaneous  | [Maximum Xor](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Miscellaneous/Maximum%20Xor.py) |
 
 ## 4. 10 Days of Statistics
 (based on Python 3)
@@ -417,8 +417,8 @@
 |:---:|:------:|:--------:|:-------:|
 |  0    | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |Easy | [Day 0](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%200.py) |
 |  1    | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |Easy | [Day 1](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%201.py) |
-|  2    | [Day 2: Operators]() |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%202.py) |
-|  3    | [Day 3: Intro to Conditional Statements]() |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%203.py) |
+|  2    | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) |Easy | [Day 2](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%202.py) |
+|  3    | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |Easy | [Day 3](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%203.py) |
 |  4    | [Day 4: Class vs. Instance]() |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%204.py) |
 |  5    | [Day 5: Loops]() |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%205.py) |
 |  6    | [Day 6: Let's Review]() |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%206.py) |
