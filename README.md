@@ -422,7 +422,7 @@
 |  4    | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |Easy | [Day 4](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%204.py) |
 |  5    | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%205.py) |
 |  6    | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%206.py) |
-|  7    | [Day 7: Arrays]() |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%207.py) |
+|  7    | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%207.py) |
 |  8    | [Day 8: Dictionaries and Maps]() |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%208.py) |
 |  9    | [Day 9: Recursion 3]() |Easy | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%209.py) |
 |  10  | [ Day 10: Binary Numbers ]() |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
