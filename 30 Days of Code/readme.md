@@ -10,9 +10,9 @@
 |  5    | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) |Easy | [Day 5](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%205.py) |
 |  6    | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |Easy | [Day 6](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%206.py) |
 |  7    | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) |Easy | [Day 7](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%207.py) |
-|  8    | [Day 8: Dictionaries and Maps]() |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%208.py) |
-|  9    | [Day 9: Recursion 3]() |Easy | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%209.py) |
-|  10  | [ Day 10: Binary Numbers ]() |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
+|  8    | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%208.py) |
+|  9    | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |Easy | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%209.py) |
+|  10  | [ Day 10: Binary Numbers ](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
 |  11  | [ Day 11: 2D Arrays ]() |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
 |  12  | [ Day 12: Inheritance ]() |Easy | [Day 12](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2012.py) |
 |  13  | [ Day 13: Abstract Classes ]() |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
