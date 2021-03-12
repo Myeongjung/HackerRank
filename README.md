@@ -14,7 +14,7 @@
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (10/30) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (11/30) |
 
 ## 1. Python 
 (based on Python 3)
@@ -426,7 +426,7 @@
 |  8    | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%208.py) |
 |  9    | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |Easy | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%209.py) |
 |  10  | [ Day 10: Binary Numbers ](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
-|  11  | [ Day 11: 2D Arrays ]() |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
+|  11  | [ Day 11: 2D Arrays ](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
 |  12  | [ Day 12: Inheritance ]() |Easy | [Day 12](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2012.py) |
 |  13  | [ Day 13: Abstract Classes ]() |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
 |  14  | [ Day 14: Scope ]() |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |

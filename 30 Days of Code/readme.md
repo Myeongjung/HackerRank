@@ -13,7 +13,7 @@
 |  8    | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%208.py) |
 |  9    | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |Easy | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%209.py) |
 |  10  | [ Day 10: Binary Numbers ](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
-|  11  | [ Day 11: 2D Arrays ]() |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
+|  11  | [ Day 11: 2D Arrays ](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
 |  12  | [ Day 12: Inheritance ]() |Easy | [Day 12](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2012.py) |
 |  13  | [ Day 13: Abstract Classes ]() |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
 |  14  | [ Day 14: Scope ]() |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |

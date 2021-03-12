@@ -11,25 +11,15 @@ class Decibinary:
         self.COUNT = [[1, 1]]
         self.cum_sums = [1]
         self.gen_min_dig()
-        # print(self.min_dig)
-        # tests = [9, 27, 63, 135, 279, 567, 1143]
-        # print([(t, [self.calc_min_digits(x) for x in range(t - 1, t + 2)]) for t in tests])
-
-        # self.extend(1000)
-        # print('COUNT', self.COUNT, 'CUMSUMS', self.cum_sums, f'N={len(self.cum_sums)}', sep='\n')
-
         
     def gen_min_dig(self, max_pow=20):
         self.min_dig = [0] 
         for p in range(max_pow):
             self.min_dig.append(9 * 2 ** p + self.min_dig[-1])
 
-
     def calc_min_digits(self, n):
         return bisect.bisect_left(self.min_dig, n)
 
-
-    # Complete the decibinaryNumbers function below.
     def decibinaryNumbers(self, x):
         if x > self.cum_sums[-1]:
             self.extend(x)
@@ -49,7 +39,7 @@ class Decibinary:
                 for d in range(1, 10):
                     remainder = n - d * 2 ** (m - 1)
                     if remainder >= 0:
-                        self.COUNT[n][m] += self.COUNT[remainder][min(m - 1, len(self.COUNT[remainder]) - 1)] #BUGGY FUCK 
+                        self.COUNT[n][m] += self.COUNT[remainder][min(m - 1, len(self.COUNT[remainder]) - 1)]
                     else: 
                         break
             self.cum_sums.append(self.cum_sums[-1] + self.COUNT[-1][-1])
@@ -78,7 +68,6 @@ class Decibinary:
             s_m = min(len(self.COUNT[smaller]) - 1, m - 1)
             skipped += self.COUNT[smaller][s_m]
             if skipped >= rem:
-                # set
                 partial += k * 10 ** (m - 1) 
                 new_rem = rem - (skipped - self.COUNT[smaller][s_m])
                 return self.reconstruct(smaller, s_m, new_rem, partial) 
