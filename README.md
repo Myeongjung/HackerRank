@@ -10,11 +10,11 @@
 |:--:|:--------------------------------------------------------------------|:--------------|
 |1   | [Python](#1-python) 														 | Completed |
 |2   | [SQL](#2-sql)	 															 | In progress (55/58) |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (57/69) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (60/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (13/30) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (16/30) |
 
 ## 1. Python 
 (based on Python 3)
@@ -258,7 +258,7 @@
 |  48| [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Min Max Riddle](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Min%20Max%20Riddle.py) |
 |  49| [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Medium | Stacks and Queues | [Castle on the Grid](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Castle%20on%20the%20Grid.py) |
 |  50| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues) | Hard | Stacks and Queues | [Poisonous Plants](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Stacks%20and%20Queues/Poisonous%20Plants.py) |
-|  51| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Roads and Libraries](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/Roads%20and%20Libraries.py) -->|
+|  51| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  | [Roads and Libraries](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/Roads%20and%20Libraries.py) |
 |  52| [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Medium | Graphs  |<!-- [Find the nearest clone](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/Find%20the%20nearest%20clone.py) -->|
 |  53| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [BFS - Shortest Reach in a Graph](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/BFS%20-%20Shortest%20Reach%20in%20a%20Graph.py) -->|
 |  54| [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=graphs) | Hard | Graphs  |<!-- [DFS - Connected Cell in a Grid](https://github.com/Myeongjung/HackerRank/blob/main/Interview%20Preparation%20Kit/Graphs/DFS%20-%20Connected%20Cell%20in%20a%20Grid.py) -->|
@@ -429,9 +429,9 @@
 |  11  | [ Day 11: 2D Arrays ](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
 |  12  | [ Day 12: Inheritance ](https://www.hackerrank.com/challenges/30-inheritance/problem) |Easy | [Day 12](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2012.py) |
 |  13  | [ Day 13: Abstract Classes ](https://www.hackerrank.com/challenges/30-abstract-classes/problem?h_r=next-challenge&h_v=zen) |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
-|  14  | [ Day 14: Scope ]() |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |
-|  15  | [ Day 15: Linked List ]() |Easy | [Day 15](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2015.py) |
-|  16  | [ Day 16: Exceptions - String to Integer ]() |Easy | [Day 16](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2016.py) |
+|  14  | [ Day 14: Scope ](https://www.hackerrank.com/challenges/30-scope/problem) |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |
+|  15  | [ Day 15: Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) |Easy | [Day 15](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2015.py) |
+|  16  | [ Day 16: Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |Easy | [Day 16](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2016.py) |
 |  17  | [ Day 17: More Exceptions ]() |Easy | [Day 17](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2017.py) |
 |  18  | [ Day 18: Queues and Stacks ]() |Easy | [Day 18](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2018.py) |
 |  19  | [ Day 19: Interfaces ]() |Easy | [Day 19](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2019.py) |

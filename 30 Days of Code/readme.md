@@ -15,10 +15,10 @@
 |  10  | [ Day 10: Binary Numbers ](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |Easy | [Day 10](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2010.py) |
 |  11  | [ Day 11: 2D Arrays ](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |Easy | [Day 11](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2011.py) |
 |  12  | [ Day 12: Inheritance ](https://www.hackerrank.com/challenges/30-abstract-classes/problem?h_r=next-challenge&h_v=zen) |Easy | [Day 12](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2012.py) |
-|  13  | [ Day 13: Abstract Classes ]() |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
-|  14  | [ Day 14: Scope ]() |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |
-|  15  | [ Day 15: Linked List ]() |Easy | [Day 15](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2015.py) |
-|  16  | [ Day 16: Exceptions - String to Integer ]() |Easy | [Day 16](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2016.py) |
+|  13  | [ Day 13: Abstract Classes ](https://www.hackerrank.com/challenges/30-scope/problem) |Easy | [Day 13](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2013.py) |
+|  14  | [ Day 14: Scope ](https://www.hackerrank.com/challenges/30-scope/problem) |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |
+|  15  | [ Day 15: Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) |Easy | [Day 15](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2015.py) |
+|  16  | [ Day 16: Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |Easy | [Day 16](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2016.py) |
 |  17  | [ Day 17: More Exceptions ]() |Easy | [Day 17](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2017.py) |
 |  18  | [ Day 18: Queues and Stacks ]() |Easy | [Day 18](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2018.py) |
 |  19  | [ Day 19: Interfaces ]() |Easy | [Day 19](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2019.py) |
