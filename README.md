@@ -14,7 +14,7 @@
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (16/30) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (18/30) |
 
 ## 1. Python 
 (based on Python 3)
@@ -432,8 +432,8 @@
 |  14  | [ Day 14: Scope ](https://www.hackerrank.com/challenges/30-scope/problem) |Easy | [Day 14](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2014.py) |
 |  15  | [ Day 15: Linked List ](https://www.hackerrank.com/challenges/30-linked-list/problem) |Easy | [Day 15](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2015.py) |
 |  16  | [ Day 16: Exceptions - String to Integer ](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |Easy | [Day 16](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2016.py) |
-|  17  | [ Day 17: More Exceptions ]() |Easy | [Day 17](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2017.py) |
-|  18  | [ Day 18: Queues and Stacks ]() |Easy | [Day 18](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2018.py) |
+|  17  | [ Day 17: More Exceptions ](https://www.hackerrank.com/challenges/30-more-exceptions/problem) |Easy | [Day 17](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2017.py) |
+|  18  | [ Day 18: Queues and Stacks ](https://www.hackerrank.com/challenges/30-queues-stacks/problem) |Easy | [Day 18](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2018.py) |) |
 |  19  | [ Day 19: Interfaces ]() |Easy | [Day 19](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2019.py) |
 |  20  | [ Day 20: Sorting ]() |Easy | [Day 20](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2020.py) |
 |  21  | [ Day 21: Generics ]() |Easy | [Day 21](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2021.py) |
