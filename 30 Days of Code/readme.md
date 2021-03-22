@@ -23,7 +23,7 @@
 |  18  | [ Day 18: Queues and Stacks ](https://www.hackerrank.com/challenges/30-queues-stacks/problem) |Easy | [Day 18](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2018.py) |
 |  19  | [ Day 19: Interfaces ](https://www.hackerrank.com/challenges/30-interfaces/problem) |Easy | [Day 19](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2019.py) |
 |  20  | [ Day 20: Sorting ](https://www.hackerrank.com/challenges/30-sorting/problem) |Easy | [Day 20](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2020.py) |
-|  21  | [ Day 21: Generics ]() |Easy | [Day 21](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2021.py) |
+|  21  | [ Day 21: Generics ](https://www.hackerrank.com/challenges/30-generics/problem) |Easy | [Day 21](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2021.py) |
 |  22  | [ Day 22: Binary Search Trees ]() |Easy | [Day 22](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2022.py) |
 |  23  | [ Day 23: BST Level-Order Traversal ]() |Easy | [Day 23](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2023.py) |
 |  24  | [ Day 24: More Linked Lists ]() |Easy | [Day 24](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2024.py) |
