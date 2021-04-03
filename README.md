@@ -441,7 +441,7 @@
 |  23  | [ Day 23: BST Level-Order Traversal ](https://www.hackerrank.com/challenges/30-binary-trees/problem) |Easy | [Day 23](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2023.py) |
 |  24  | [ Day 24: More Linked Lists ](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) |Easy | [Day 24](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2024.py) |
 |  25  | [ Day 25: Running Time and Complexity ](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | Medium | [Day 25](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2025.py) |
-|  26  | [ Day 26: Nested Logic ]() |Easy | [Day 26](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2026.py) |
-|  27  | [ Day 27: Testing ]() |Easy | [Day 27](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2027.py) |
-|  28  | [ Day 28: RegEx, Patterns, and Intro to Databases ]() |Easy | [Day 28](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2028.py) |
-|  29  | [ Day 29: Bitwise AND ]() |Easy | [Day 29](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2029.py) |
+|  26  | [ Day 26: Nested Logic ](https://www.hackerrank.com/challenges/30-nested-logic/problem) |Easy | [Day 26](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2026.py) |
+|  27  | [ Day 27: Testing ](https://www.hackerrank.com/challenges/30-testing/problem?h_r=next-challenge&h_v=zen) |Easy | [Day 27](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2027.py) |
+|  28  | [ Day 28: RegEx, Patterns, and Intro to Databases ](https://www.hackerrank.com/challenges/30-regex-patterns/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Medium | [Day 28](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2028.py) |
+|  29  | [ Day 29: Bitwise AND ](https://www.hackerrank.com/challenges/30-bitwise-and) | Medium | [Day 29](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2029.py) |
