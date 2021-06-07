@@ -102,6 +102,59 @@ GROUP BY START_DATE
 ORDER BY DATEDIFF(END_DATE, START_DATE), START_DATE
 
 --55. Placements
+Select S.NAME
+FROM ( STUDENTS S join FRIENDS F Using(ID)
+       join PACKAGES P1 on S.ID=P1.ID
+       join PACKAGES P2 on F.FRIEND_ID=P2.ID)
+Where P2.SALARY > P1.SALARY
+Order By P2.SALARY
+
 --56. Symmetric Pairs
+SELECT f1.x, f1.y
+FROM FUNCTIONS f1 INNER JOIN FUNCTIONS f2 ON f1.y = f2.x
+WHERE f1.x = f2.y
+GROUP BY f1.x, f1.y
+HAVING COUNT(f1.x) > 1 OR f1.x < f1.y
+ORDER BY f1.x
+
 --57. Interviews
+SELECT A.contest_id, A.hacker_id, A.name, SUM(tb1.ts), SUM(tb1.tas), SUM(tb2.tv), SUM(tb2.tuv)
+FROM Contests A 
+JOIN Colleges B ON A.contest_id = B.contest_id
+JOIN (
+		SELECT C.college_id, SUM(S.total_submissions) AS ts, SUM(S.total_accepted_submissions) AS tas
+		FROM Challenges C JOIN Submission_Stats S ON C.challenge_id = S.challenge_id
+		GROUP BY C.college_id) tb1 
+	ON B.college_id = tb1.college_id
+JOIN (
+		SELECT C.college_id, SUM(V.total_views) AS tv, SUM(V.total_unique_views) AS tuv
+		FROM Challenges C 
+		JOIN View_Stats V 
+		ON C.challenge_id = V.challenge_id
+		GROUP BY C.college_id) tb2 
+	ON tb2.college_id = B.college_id
+GROUP BY A.contest_id, A.hacker_id, A.name
+HAVING SUM(tb1.ts)!=0 or SUM(tb1.tas)!=0 or SUM(tb2.tv)!=0 or SUM(tb2.tuv)!=0
+ORDER BY A.contest_id
+
 --58. 15 Days of Learning SQL
+SELECT submission_date,
+(SELECT COUNT(DISTINCT hacker_id)  
+ FROM Submissions s2  
+ WHERE s2.submission_date = s1.submission_date 
+   AND (
+       SELECT COUNT(DISTINCT s3.submission_date) 
+       FROM Submissions s3 
+       WHERE s3.hacker_id = s2.hacker_id 
+         AND s3.submission_date < s1.submission_date) = dateDIFF(s1.submission_date,'2016-03-01')),
+(SELECT hacker_id  
+ FROM submissions s2 
+ WHERE s2.submission_date = s1.submission_date 
+ GROUP BY hacker_id 
+ ORDER BY COUNT(submission_id) DESC, hacker_id 
+ LIMIT 1) AS shit,
+(SELECT name 
+ FROM hackers 
+ WHERE hacker_id = shit)
+FROM (SELECT DISTINCT submission_date from submissions) s1
+GROUP BY submission_date

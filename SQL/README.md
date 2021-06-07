@@ -56,7 +56,7 @@
 |52|[Challenges](https://www.hackerrank.com/challenges/challenges/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
-|55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|

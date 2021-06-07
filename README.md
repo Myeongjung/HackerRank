@@ -6,15 +6,15 @@
 </p>
 
 ## Table of contents
-|idx | Contents 																		 | Status		 |
-|:--:|:--------------------------------------------------------------------|:--------------|
+|idx | Contents 																		 | Status	   |
+|:--:|:--------------------------------------------------------------------|:------------|
 |1   | [Python](#1-python) 														 | Completed |
-|2   | [SQL](#2-sql)	 															 | In progress (54/58) |
+|2   | [SQL](#2-sql)	 															 | Completed |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (63/69) |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
 |5   | [Java](#5-java) 															 	 | Completed |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | In progress (25/30) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed |
 
 ## 1. Python 
 (based on Python 3)
@@ -197,10 +197,10 @@
 |52|[Challenges](https://www.hackerrank.com/challenges/challenges/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |53|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |54|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) |Medium| [Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
-|55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
-|58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|<!--[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)-->|
+|55|[Placements](https://www.hackerrank.com/challenges/placements/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 
 
 ## 3. Interview Preparation Kit
