@@ -64,3 +64,5 @@
 |62| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |63| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |64| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|65| [Test: Braces](https://www.hackerrank.com/skills-verification/java_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Java/Test.java)|
+|66| [Test: How Will You Compare](https://www.hackerrank.com/skills-verification/java_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Java/Test.java)|
