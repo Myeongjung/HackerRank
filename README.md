@@ -6,15 +6,16 @@
 </p>
 
 ## Table of contents
-|idx | Contents 																		 | Status	   |
-|:--:|:--------------------------------------------------------------------|:------------|
-|1   | [Python](#1-python) 														 | Completed |
-|2   | [SQL](#2-sql)	 															 | Completed |
-|3   | [Interview Preparation Kit](#3-interview-preparation-kit) 	 | In progress (63/69) |
-|4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed |
-|5   | [Java](#5-java) 															 	 | Completed |
-|6   | [10 Days of Javascript](#6-10-days-of-javascript) 				 | Completed |
-|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed |
+|idx | Contents 																		 | Status	   |   Certification	   |
+|:--:|:--------------------------------------------------------------------|:------------|:--------------|
+|1   | [Python](#1-python) 													 | Completed | [Python (Basic)](https://www.hackerrank.com/certificates/2864e2d03783) |
+|2   | [SQL](#2-sql)	 															 | Completed | [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/a0a99c65fcaf) |
+|3   | [Interview Preparation Kit](#3-interview-preparation-kit) | In progress (63/69) | |
+|4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed | |
+|5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
+|6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic) Skills](https://www.hackerrank.com/certificates/d3270267e67b) |
+|7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (16/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -136,7 +137,8 @@
 | 113| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) | Hard | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 114| [Words Score ](https://www.hackerrank.com/challenges/words-score/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 115| [Default Arguments ](https://www.hackerrank.com/challenges/default-arguments/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
-
+| 116| [Test: Reverse Words and Swap Cases](https://www.hackerrank.com/skills-verification/python_basic) | Basic | [Certification Test](https://github.com/Myeongjung/HackerRank/blob/main/Python/Test.py) |
+| 117| [Test: Multiset Implemenation](https://www.hackerrank.com/skills-verification/python_basic) | Basic | [Certification Test](https://github.com/Myeongjung/HackerRank/blob/main/Python/Test.py) |
 
 ## 2. SQL
 (based on MySQL)
@@ -201,7 +203,7 @@
 |56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
-
+|59|[Test: Student Analysis](https://www.hackerrank.com/skills-verification/sql_basic) | Basic |[Test](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Test.sql)|
 
 ## 3. Interview Preparation Kit
 (based on Python 3)
@@ -380,6 +382,8 @@
 |62| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |63| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
 |64| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |Medium|[Solution #52-64](https://github.com/Myeongjung/HackerRank/blob/main/Java/Solution%20%2352-64.java)|
+|65| [Test: Braces](https://www.hackerrank.com/skills-verification/java_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Java/Test.java)|
+|66| [Test: How Will You Compare](https://www.hackerrank.com/skills-verification/java_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Java/Test.java)|
 
 ## 6. 10 Days of Javascript
 | Days |Question|Difficulty|File Name|
@@ -409,6 +413,8 @@
 |  8  | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.html) |
 |  8  | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.html) |
 |  9  | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%209.js) |
+| 10 | [Test: Notes Store](https://www.hackerrank.com/skills-verification/javascript_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Test.js) |
+| 11 | [Test: Staff List](https://www.hackerrank.com/skills-verification/javascript_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Test.js) |
 
 ## 7. 30 Days of Code
 (based on Python 3)
@@ -445,3 +451,28 @@
 |  27  | [ Day 27: Testing ](https://www.hackerrank.com/challenges/30-testing/problem?h_r=next-challenge&h_v=zen) |Easy | [Day 27](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2027.py) |
 |  28  | [ Day 28: RegEx, Patterns, and Intro to Databases ](https://www.hackerrank.com/challenges/30-regex-patterns/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Medium | [Day 28](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2028.py) |
 |  29  | [ Day 29: Bitwise AND ](https://www.hackerrank.com/challenges/30-bitwise-and) | Medium | [Day 29](https://github.com/Myeongjung/HackerRank/blob/main/30%20Days%20of%20Code/Day%2029.py) |
+
+## 8. Problem Solving
+(based on Python 3)
+
+| idx |Question|Difficulty|File Name|
+|:---:|:------:|:--------:|:-------:|
+| 1  | [Problem Solving Certification](https://www.hackerrank.com/skills-verification/problem_solving_basic) | Basic | [Problem Solving](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Basic_Test.py) |
+| 2  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 3  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 4  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 5  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 6  | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 7  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 8  | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 9  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 10| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 11| [Time Conversion](hackerrank.com/challenges/time-conversion/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 12| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 13| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 14| [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 15| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+| 16| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16) |
+
+
+
