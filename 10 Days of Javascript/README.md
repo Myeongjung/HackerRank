@@ -25,3 +25,5 @@
 |  8  | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.js) |
 |  8  | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | [Day 8](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208.js) |
 |  9  | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | [Day 9](https://github.com/Myeongjung/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%209.js) |
+| 10 | [Test: Notes Store](https://www.hackerrank.com/skills-verification/javascript_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Test.js) |
+| 11 | [Test: Staff List](https://www.hackerrank.com/skills-verification/javascript_basic) | Basic | [Test](https://github.com/Myeongjung/HackerRank/blob/main/Test.js) |
