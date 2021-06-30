@@ -9,11 +9,11 @@
 |idx | Contents 																		 | Status	   |   Certification	   |
 |:--:|:--------------------------------------------------------------------|:------------|:--------------|
 |1   | [Python](#1-python) 													 | Completed | [Python (Basic)](https://www.hackerrank.com/certificates/2864e2d03783) |
-|2   | [SQL](#2-sql)	 															 | Completed | [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/a0a99c65fcaf) |
+|2   | [SQL](#2-sql)	 															 | Completed | [SQL (Basic)](https://www.hackerrank.com/certificates/a0a99c65fcaf) |
 |3   | [Interview Preparation Kit](#3-interview-preparation-kit) | In progress (63/69) | |
 |4   | [10 Days of Statistics](#4-10-days-of-statistics) 				 | Completed | |
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
-|6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic) Skills](https://www.hackerrank.com/certificates/d3270267e67b) |
+|6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (16/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
