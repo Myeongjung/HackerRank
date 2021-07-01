@@ -33,8 +33,8 @@
 | 29| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 30| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 31| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-\\<!--| 32| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
-\\<!--| 33| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
+<!--| 32| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
+<!--| 33| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
 \\<!--| 34| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
 \\<!--| 35| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
 \\<!--| 36| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |-->
