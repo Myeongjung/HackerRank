@@ -18,7 +18,7 @@
 | 14| [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
 | 15| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
 | 16| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
-| 17| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+<!--| 17| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 18| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 19| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 20| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
@@ -33,7 +33,7 @@
 | 29| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 30| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 31| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-<!--| 32| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 32| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 33| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 34| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 35| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
@@ -62,4 +62,23 @@
 | 58| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 59| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 60| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 61| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |-->
+| 61| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 62| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 63| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 64| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 65| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 66| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 67| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 68| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 69| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 70| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 71| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 72| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 73| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 74| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 75| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 76| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 77| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 78| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 79| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
+| 80| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |-->
