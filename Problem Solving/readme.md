@@ -18,11 +18,11 @@
 | 14| [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
 | 15| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
 | 16| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Easy | [Solution #2-16](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%232-16.py) |
-<!--| 17| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-| 18| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-| 19| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-| 20| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-| 21| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+<!--| 17| [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+| 18| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+| 19| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+| 20| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+| 21| [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 22| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 23| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 24| []() | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
