@@ -117,3 +117,5 @@
 | 113| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) | Hard | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 114| [Words Score ](https://www.hackerrank.com/challenges/words-score/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
 | 115| [Default Arguments ](https://www.hackerrank.com/challenges/default-arguments/problem) | Medium | [Solution#103-115](https://github.com/Myeongjung/HackerRank/blob/main/Python/Solution%23103-115.py) |
+| 116| [Test: Reverse Words and Swap Cases](https://www.hackerrank.com/skills-verification/python_basic) | Basic | [Certification Test](https://github.com/Myeongjung/HackerRank/blob/main/Python/Test.py) |
+| 117| [Test: Multiset Implemenation](https://www.hackerrank.com/skills-verification/python_basic) | Basic | [Certification Test](https://github.com/Myeongjung/HackerRank/blob/main/Python/Test.py) |
