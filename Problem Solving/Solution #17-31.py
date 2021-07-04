@@ -42,11 +42,20 @@ def bonAppetit(bill, k, b):
     shared = (sum(bill) - bill[k])//2
     print(b-shared if shared != b else "Bon Appetit")
 
-#22. 
+#22. Drawing Book
+def pageCount(n, p):
+    return min(p//2,n//2-p//2) 
 
-#23. 
+#23. Electronics Shop
+def getMoneySpent(keyboards, drives, b):
+    return max([sum([x,y]) for x in keyboards for y in drives if sum([x,y]) <= b]+[-1])
 
-#24. 
+#24. Cats and a Mouse
+def catAndMouse(x, y, z):
+    d1 = abs(x-z)
+    d2 = abs(y-z)
+    
+    return "Cat A" if d1 < d2 else "Cat B" if d1 > d2 else "Mouse C"
 
 #25. 
 
