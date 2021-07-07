@@ -57,7 +57,15 @@ def catAndMouse(x, y, z):
     
     return "Cat A" if d1 < d2 else "Cat B" if d1 > d2 else "Mouse C"
 
-#25. 
+#25. Picking Numbers
+from collections import Counter
+
+def pickingNumbers(a):
+    results = []
+    c = Counter(a)
+    for i in c:
+        results.append(c[i]+max(c[i+1], c[i-1]))
+    return max(results)
 
 #26. 
 
