@@ -481,5 +481,5 @@
 | 22| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 23| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 24| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-
+| 25| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 
