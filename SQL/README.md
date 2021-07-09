@@ -60,3 +60,4 @@
 |56|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) |Medium|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |57|[Interviews](https://www.hackerrank.com/challenges/interviews/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
 |58|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) |Hard|[Solution #48-58](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Solution%20%2348-58.sql)|
+|59|[Test: Student Analysis](https://www.hackerrank.com/skills-verification/sql_basic) | Basic |[Test](https://github.com/Myeongjung/HackerRank/blob/main/SQL/Test.sql)|
