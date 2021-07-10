@@ -67,14 +67,43 @@ def pickingNumbers(a):
         results.append(c[i]+max(c[i+1], c[i-1]))
     return max(results)
 
-#26. 
+#26. The Hurdle Race
+def hurdleRace(k, height):
+    return 0 if k > max(height) else max(height)-k
+	
+#27. Designer PDF Viewer
+def designerPdfViewer(h, word):
+    height = 0
+    
+    height = max([h[ord(i)-ord('a')] for i in word if h[ord(i)-ord('a')]>height])
 
-#27. 
+    return height * len(word)
 
-#28. 
 
-#29. 
+#28. Utopian Tree
+def utopianTree(n):
+    return 1 if n == 0 else utopianTree(n-1) + 1 if n % 2 == 0 else 2 * utopianTree(n-1)
 
-#30. 
+#29. Angry Professor
+def angryProfessor(k, a):
+    return 'YES' if sum(map(lambda x: x <= 0, a)) < k else 'NO'
 
-#31. 
+#30. Beautiful Days at the Movies
+def beautifulDays(i, j, k):
+    count = 0
+    for idx in range(i, j+1):
+        count = count + 1 if abs(idx - int(str(idx)[::-1])) % k == 0 else count
+    
+    return count
+	
+#31. Viral Advertising
+def viralAdvertising(n):
+    people = 5;
+    cumulative = 0;
+    
+    for i in range(n):
+        people = people//2
+        cumulative += people
+        people *= 3
+
+    return cumulative
