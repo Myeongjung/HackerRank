@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (31/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (38/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -488,3 +488,10 @@
 | 29| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 30| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 31| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
+| 32| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 33| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 34| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 35| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 36| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 37| [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+| 38| [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
