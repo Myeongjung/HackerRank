@@ -1,4 +1,6 @@
-#32. 
+#32. Save the Prisoner!
+def saveThePrisoner(n, m, s):
+    return ((s + m - 2) % n) + 1
 
 #33. 
 

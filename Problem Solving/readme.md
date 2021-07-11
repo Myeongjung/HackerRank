@@ -33,7 +33,7 @@
 | 29| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 30| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
 | 31| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | Easy | [Solution #17-31](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2317-31.py) |
-<!-- | 32| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
+<!-- | 32| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 33| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 34| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
 | 35| []() | Easy | [Solution #32-46](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2332-46.py) |
