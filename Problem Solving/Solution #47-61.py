@@ -38,10 +38,31 @@ def workbook(n, k, arr):
                 count+=1
     return count
 
-#51. 
-#52. 
-#53. 
-#54. 
+#51. Flatland Space Stations
+def flatlandSpaceStations(n, c):
+    c.sort()
+    result = max(c[0], n-1 - c[-1])
+    for i in range(len(c)-1):
+        result = max((c[i+1]-c[i])//2, result)
+    return result
+
+#52. Fair Rations
+def fairRations(B):
+    idx = [i for i, x in enumerate(B) if x % 2 == 1 ]
+    return "NO" if len(idx) % 2 == 1 else str(sum([(idx[i+1]-idx[i])*2 for i in range(0,len(idx),2)]))
+
+#53. Cavity Map
+def cavityMap(grid):
+    n = len(grid) - 1
+    for i in range(1, n):
+        for j in range(1, n):
+            if grid[i][j] > max(grid[i-1][j],grid[i+1][j],grid[i][j-1],grid[i][j+1]):               
+				grid[i] = grid[i][:j] +'X' + grid[i][j+1:]
+    return grid 
+
+#54. Manasa and Stones
+
+
 #55. 
 #56. 
 #57. 
