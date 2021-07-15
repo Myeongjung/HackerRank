@@ -55,11 +55,11 @@
 | 51| [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 52| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 53| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-<!-- | 54| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 55| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 56| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 57| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 58| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 54| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 55| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 56| [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 57| [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+<!-- | 58| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 59| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 60| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 61| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |

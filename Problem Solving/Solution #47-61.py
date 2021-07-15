@@ -61,12 +61,37 @@ def cavityMap(grid):
     return grid 
 
 #54. Manasa and Stones
+def stones(n, a, b):
+    return sorted(set([a*(n-i-1) + b*i for i in range(n)]))
+
+#55. Happy Ladybugs
+def happyLadybugs(b): 
+    for a in set(b):
+        if a != '_' and b.count(a) == 1:
+            return "NO"
+        
+    if b.count('_') == 0:
+        for i in range(1,n-1):
+            if b[i-1]!=b[i] and b[i+1]!=b[i]:
+                return "NO"
+    return "YES"
+
+#56. Strange Counter
+def strangeCounter(t):
+    init = 3
+    while t > init:
+        t = t-init
+        init *= 2
+            
+    return init-t+1
+
+#57. Big Sorting
+def bigSorting(unsorted):
+    return sorted(unsorted, key = lambda x: (len(x), x))
+
+#58. Super Reduced String
 
 
-#55. 
-#56. 
-#57. 
-#58. 
 #59. 
 #60. 
 #61. 
