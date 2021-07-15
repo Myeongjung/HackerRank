@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (57/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (61/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -514,3 +514,7 @@
 | 55| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 56| [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 57| [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 58| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 59| [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 60| [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 61| [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |

@@ -59,26 +59,7 @@
 | 55| [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 56| [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 57| [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-<!-- | 58| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 59| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 60| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 61| []() | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
-| 62| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 63| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 64| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 65| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 66| []() | Easy | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 67| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 68| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 69| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 70| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 71| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 72| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 73| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 74| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 75| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 76| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 77| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 78| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 79| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |
-| 80| []() | Medium | [Solution #62-](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-.py) |-->
+| 58| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 59| [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 60| [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 61| [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |

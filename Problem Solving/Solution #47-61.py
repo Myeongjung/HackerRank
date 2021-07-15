@@ -90,8 +90,60 @@ def bigSorting(unsorted):
     return sorted(unsorted, key = lambda x: (len(x), x))
 
 #58. Super Reduced String
+def superReducedString(s):
+    l = list(s)
+    i = 0 
+    while i < len(l)-1:
+        if l[i]==l[i+1]:
+            del l[i]
+            del l[i]
+            i = 0
+            if len(l) == 0:
+                return 'Empty String'
+                break
+        else:
+            i+=1
+    return ''.join(l)
 
+#59. CamelCase
+def camelcase(s):
+    count = 1
+    for i in s:
+        if i.isupper():
+            count += 1
+    return count
 
-#59. 
-#60. 
-#61. 
+#60. Strong Password
+def minimumNumber(n, password):
+    check = [False, False, False, False]
+    
+    for i in password:
+        if i.isdigit():
+            check[0] = True
+        elif i.islower():
+            check[1] = True
+        elif i.isupper():
+            check[2] = True
+        elif i in "!@#$%^&*()-+":
+            check[3] = True
+            
+    return max(check.count(False), 6-n)
+
+#61. Two Characters
+def validation(ls):
+    for i in range(len(ls)-1):
+        if ls[i] == ls[i+1]:
+            return False
+    return True
+
+def alternate(s):
+    l = list(set(s))
+    max_len = 0
+    
+    for x in range(len(l)):
+        for y in range(x+1, len(l)):
+            ls = [c for c in s if c==l[x] or c==l[y]]
+            
+            if validation(ls):
+                max_len = max(max_len, len(ls))
+    return max_len
