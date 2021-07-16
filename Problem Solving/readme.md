@@ -63,3 +63,8 @@
 | 59| [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 60| [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
 | 61| [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | Easy | [Solution #47-61](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2347-61.py) |
+| 62| [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 63| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 64| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 65| [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 66| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
