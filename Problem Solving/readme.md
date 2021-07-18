@@ -68,3 +68,7 @@
 | 64| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 65| [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 66| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 67| [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 68| [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 69| [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) | Medium | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 70| [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
