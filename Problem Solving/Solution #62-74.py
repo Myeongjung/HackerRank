@@ -166,3 +166,39 @@ quicksort=QuickSort()
 insertion=Insertion()
 print(insertion.insertionsort(br)-quicksort.quicksort(ar, start, end))
 
+#71. Counting Sort 1
+def countingSort(arr):
+    ar = [0 for i in range(100)]
+    
+    for i in arr:
+        ar[i] += 1
+        
+    return ar
+	
+#72. Counting Sort 2
+def countingSort(arr):
+    ar = [0 for i in range(100)]
+    
+    for i in arr:
+        ar[i] += 1
+        
+    return [i for i in range(100) for _ in range(ar[i])]
+	
+#73. Counting Sort 3
+n = int(input())
+ar = []
+
+for i in range(n):
+    ar.append(input().split())
+    
+a = [0 for i in range(100)]
+for i in ar:
+    a[int(i[0])] += 1
+    
+count = 0
+for i in range(len(a)):
+    count += a[i]
+    a[i] = count
+    
+print(*a)
+

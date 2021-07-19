@@ -72,3 +72,6 @@
 | 68| [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 69| [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) | Medium | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 70| [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 71| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 72| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 73| [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |

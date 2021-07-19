@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (70/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (73/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -527,3 +527,6 @@
 | 68| [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 69| [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) | Medium | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 70| [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 71| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 72| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
+| 73| [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3/problem) | Easy | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
