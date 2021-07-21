@@ -24,3 +24,15 @@ def marsExploration(s):
             
     return count
 
+#77. HackerRank in a String!
+def hackerrankInString(s):
+    return 'YES' if re.search(r'.*?'.join(list("hackerrank")), s) else 'NO'
+
+#78. Pangrams
+from collections import Counter
+
+def pangrams(s):
+    c = Counter(s.lower().replace(" ", ""))
+    
+    return "pangram" if len(c.keys()) == 26 else "not pangram"
+

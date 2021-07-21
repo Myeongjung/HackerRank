@@ -78,3 +78,5 @@
 | 74| [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | Medium | [Solution #62-74](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2362-74.py) |
 | 75| [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 76| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 77| [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 78| [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
