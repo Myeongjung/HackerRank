@@ -80,3 +80,5 @@
 | 76| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 77| [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 78| [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 79| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 80| [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
