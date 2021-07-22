@@ -71,3 +71,35 @@ def separateNumbers(s):
         print('NO')
 
 
+#81. Smart Number
+import math
+
+def is_smart_number(num):
+    val = int(math.sqrt(num))
+    if num / val == val:
+        return True
+    return False
+
+for _ in range(int(input())):
+    num = int(input())
+    ans = is_smart_number(num)
+    if ans:
+        print("YES")
+    else:
+        print("NO")
+		
+#82. XOR Strings
+def strings_xor(s, t):
+    res = ""
+    for i in range(len(s)):
+        if s[i] == t[i]:
+            res += '0';
+        else:
+            res += '1';
+
+    return res
+
+s = input()
+t = input()
+print(strings_xor(s, t))
+

@@ -82,3 +82,5 @@
 | 78| [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 79| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 80| [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 81| [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 82| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
