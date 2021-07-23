@@ -84,3 +84,5 @@
 | 80| [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 81| [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 82| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 83| [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 84| [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |

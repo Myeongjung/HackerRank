@@ -103,3 +103,16 @@ s = input()
 t = input()
 print(strings_xor(s, t))
 
+#83. Poker Nim
+import functools
+
+def pokerNim(k, c):
+    return 'First' if functools.reduce(lambda x, y: x ^ y, c) else 'Second'
+
+#84. Nimble Game
+def nimbleGame(s):
+    x=0
+    for i in range(1,len(s)):
+        if s[i]%2:
+            x^=i
+    return "First" if x else "Second"
