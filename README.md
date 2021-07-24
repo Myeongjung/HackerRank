@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (84/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (86/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -541,3 +541,5 @@
 | 82| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 83| [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 84| [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%
+| 85| [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 86| [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |

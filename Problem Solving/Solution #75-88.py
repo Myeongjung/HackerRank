@@ -116,3 +116,16 @@ def nimbleGame(s):
         if s[i]%2:
             x^=i
     return "First" if x else "Second"
+	
+#85. Funny String
+def funnyString(s):
+    diff = []
+    for i in range(len(s)):
+        if i+1 <= len(s)-1:
+            diff.append(abs(ord(s[i]) - ord(s[i+1])))
+    return "Funny" if diff == diff[::-1] else "Not Funny"
+
+#86. Gemstones
+def gemstones(arr):
+	return len(set.intersection(*map(set,arr)))
+
