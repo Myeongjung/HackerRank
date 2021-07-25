@@ -129,3 +129,20 @@ def funnyString(s):
 def gemstones(arr):
 	return len(set.intersection(*map(set,arr)))
 
+#87. Beautiful Binary String
+def beautifulBinaryString(b):
+    return b.count('010')
+	
+#88. Closest Numbers
+def closestNumbers(arr):
+    arr.sort()
+    result = []
+    m = float('inf')
+    for i in range(len(arr)-1):
+        m = min(arr[i+1]-arr[i],m)  
+    
+    for i in range(len(arr)-1): 
+        if arr[i+1]-arr[i] == m:
+            result.append(arr[i])
+            result.append(arr[i+1])
+	return result
