@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (90/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (92/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -547,3 +547,5 @@
 | 88| [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 89| [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 90| [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 91| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 92| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |

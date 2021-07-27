@@ -92,3 +92,5 @@
 | 88| [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 89| [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 90| [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 91| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 92| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
