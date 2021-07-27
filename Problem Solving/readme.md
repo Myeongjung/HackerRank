@@ -90,3 +90,5 @@
 | 86| [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 87| [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
 | 88| [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) | Easy | [Solution #75-88](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2375-88.py) |
+| 89| [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 90| [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
