@@ -45,4 +45,37 @@ def anagram(s):
     
     return count
 	
+#93. Making Anagrams
+def makingAnagrams(s1, s2):
+    count = 0
+    c1 = set(s1)
+    c2 = set(s2)
+    
+    for i in c1:
+        if i in c2 and s1.count(i) != s2.count(i):
+            count += abs(s1.count(i) - s2.count(i))
+        elif i not in c2:
+            count += s1.count(i)
+            
+    for i in c2:
+        if i not in c1:
+            count += s2.count(i)
+    
+    return count
+	
+# With Counter
+from collections import Counter
+
+def makingAnagrams(s1, s2):
+    c1 = Counter(s1)
+    c2 = Counter(s2)
+    c1.subtract(c2)
+    
+    return sum(abs(x) for x in c1.values())
+
+#94. Game of Thrones - I
+def gameOfThrones(s):
+    return "NO" if sum([s.count(i) % 2 for i in set(s)]) > 1 else "YES"   
+
+
 

@@ -94,3 +94,6 @@
 | 90| [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 91| [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 92| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 93| [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 94| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+
