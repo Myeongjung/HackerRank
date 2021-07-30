@@ -77,5 +77,19 @@ def makingAnagrams(s1, s2):
 def gameOfThrones(s):
     return "NO" if sum([s.count(i) % 2 for i in set(s)]) > 1 else "YES"   
 
+#95. String Construction
+def stringConstruction(s):
+    return len(set(s))
+
+#96. Ice Cream Parlor
+from itertools import combinations
+
+def icecreamParlor(m, arr):
+    for i in combinations(arr, 2):
+        if sum(i) == m:
+            a,b = i
+            a = arr.index(a)+1
+            return [a, arr.index(b,a)+1]
+			
 
 
