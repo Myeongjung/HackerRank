@@ -91,5 +91,25 @@ def icecreamParlor(m, arr):
             a = arr.index(a)+1
             return [a, arr.index(b,a)+1]
 			
+#97. Missing Numbers
+from collections import Counter
 
+def missingNumbers(arr, brr):
+    c1 = Counter(arr)
+    c2 = Counter(brr)
+    c2.subtract(c1)
+
+    return sorted([k for k, v in c2.items() if v > 0])
+
+#98. Sherlock and Array
+def balancedSums(arr):
+    s = sum(arr)
+    left=0
+    for i in range(len(arr)):
+        current=arr[i]
+        s-=current
+        if left==s:
+            return 'YES'
+        left+=current
+    return 'NO'
 

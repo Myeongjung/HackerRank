@@ -98,4 +98,5 @@
 | 94| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 95| [String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 96| [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
-
+| 97| [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 98| [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
