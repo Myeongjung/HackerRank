@@ -100,3 +100,5 @@
 | 96| [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 97| [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 98| [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 99| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+|100| [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |

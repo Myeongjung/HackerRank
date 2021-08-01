@@ -113,3 +113,21 @@ def balancedSums(arr):
         left+=current
     return 'NO'
 
+#99. Marc's Cakewalk
+def marcsCakewalk(calorie):
+    calorie.sort(reverse = True)
+    
+    return sum([2**i * calorie[i] for i in range(len(calorie))])
+
+#100. Grid Challenge
+def gridChallenge(grid):
+    for i in range(len(grid)):
+        grid[i] = sorted(grid[i])
+        
+    for i in zip(*grid):
+        if list(i) == sorted(i):
+            continue
+        else:
+            return 'NO'
+    return 'YES'
+

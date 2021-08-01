@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (98/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (100/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 
 ## 1. Python 
 (based on Python 3)
@@ -555,3 +555,5 @@
 | 96| [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 97| [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 98| [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+| 99| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+|100| [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
