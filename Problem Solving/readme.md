@@ -102,3 +102,5 @@
 | 98| [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 | 99| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
 |100| [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | Easy | [Solution #89-100](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%2389-100.py) |
+|101| [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|102| [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
