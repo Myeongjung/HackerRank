@@ -31,3 +31,38 @@ def beautifulPairs(A, B):
     else:
         return count - 1
 
+#103. Largest Permutation
+def largestPermutation(k, arr):
+    a = dict(enumerate(arr))
+    b = {v:k for k,v in a.items()}
+    l = len(arr)
+    print(a,b)
+    for i in range(l):
+        if k and a[i]!=l-i:
+            x = a[i]
+            y = b[l-i]
+            a[i] = l-i
+            a[y] = x
+            b[x] = y
+            k-=1
+        yield a[i] 
+
+#104. Sherlock and The Beast
+def decentNumber(n):
+    if n < 3:
+        print(-1)
+    elif n%3 == 0:
+        print('5'*n)
+    else:
+        a = 5
+        while (n-a > 0):        
+            if ((n-a) %3 != 0):
+                a += 5
+            else:
+                break
+            
+        if (n-a) >= 0:
+            print('5'*(n-a), '3'*a, sep='')
+        else:
+            print(-1)
+
