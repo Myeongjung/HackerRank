@@ -89,4 +89,25 @@ def jimOrders(orders):
     
     return [i[0] for i in orders]
 
+#107. Permuting Two Arrays
+def twoArrays(k, A, B):
+    A.sort()
+    B.sort()
+    l = len(A)
+    for i in range(l):
+        if A[i] + B[l-i-1] >= k:
+            continue
+        else:
+            return "NO"
+    return "YES"
+
+#108. Lonely Integer
+from collections import Counter
+
+def lonelyinteger(a):
+    c = Counter(a)
+    for i, v in c.items():
+        if v == 1:
+            return i
+
 

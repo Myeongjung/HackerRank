@@ -108,3 +108,5 @@
 |104| [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |105| [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |106| [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|107| [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|108| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
