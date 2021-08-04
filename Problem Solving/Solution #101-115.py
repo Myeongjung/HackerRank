@@ -66,3 +66,27 @@ def decentNumber(n):
         else:
             print(-1)
 
+#105. Priyanka and Toys
+def toys(w):
+    w.sort()
+    result = 0
+    i = 0
+    while i < len(w):
+        r = w[i]+4
+        count = 1
+        for j in range(i+1, len(w)):
+            if w[j] <= r:
+                count+=1
+            else:
+                break
+        i += count
+        result += 1
+    return result
+
+#106. Jim and the Orders
+def jimOrders(orders):
+    orders = sorted(enumerate(orders,1),key=lambda x:sum(x[1]))
+    
+    return [i[0] for i in orders]
+
+

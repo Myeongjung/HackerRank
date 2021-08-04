@@ -106,3 +106,5 @@
 |102| [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |103| [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |104| [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|105| [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|106| [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
