@@ -112,3 +112,5 @@
 |108| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |109| [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |110| [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|111| [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|112| [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |

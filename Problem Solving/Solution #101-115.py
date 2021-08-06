@@ -123,4 +123,14 @@ def sumXor(n):
         n//=2
     
     return 2**count
+	
+#111. Game of Stones
+def gameOfStones(n):
+    return "Second" if n%7 in [0,1] else "First"
+
+#112. Tower Breakers
+def towerBreakers(n, m):
+    return 2 if m == 1 or n%2 == 0 else 1
+
+
 
