@@ -110,3 +110,5 @@
 |106| [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |107| [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |108| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|109| [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|110| [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |

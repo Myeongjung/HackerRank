@@ -110,4 +110,17 @@ def lonelyinteger(a):
         if v == 1:
             return i
 
+#109. Maximizing XOR
+def maximizingXor(l, r):
+    return max([i^j for i in range(l, r+1) for j in range(l, r+1)])
+	
+#110. Sum vs XOR
+def sumXor(n):
+    count = 0
+    
+    while(n):
+        count += 0 if n%2 else 1
+        n//=2
+    
+    return 2**count
 
