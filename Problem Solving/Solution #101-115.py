@@ -145,4 +145,9 @@ def misereNim(s):
     else:
         return 'Second'
 
+#114. A Chessboard Game
+def chessboardGame(x, y):
+    x=x%4
+    y=y%4
+    return "First" if y==0 or y==3 or x==0 or x==3 else "Second"
 
