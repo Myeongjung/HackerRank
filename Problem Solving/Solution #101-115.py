@@ -151,3 +151,9 @@ def chessboardGame(x, y):
     y=y%4
     return "First" if y==0 or y==3 or x==0 or x==3 else "Second"
 
+#115. Introduction to Nim Game
+from functools import reduce
+
+def nimGame(pile):
+    return "Second" if reduce(lambda x, y : x ^ y, pile) == 0 else "First"
+

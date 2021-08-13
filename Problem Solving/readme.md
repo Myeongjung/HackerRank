@@ -116,3 +116,4 @@
 |112| [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |113| [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |114| [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
+|115| [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
