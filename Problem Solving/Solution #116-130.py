@@ -13,4 +13,16 @@ def formingMagicSquare(s):
 
     return cost
 	
+#117. Climbing the Leaderboard
+def climbingLeaderboard(ranked, player):
+    result = []
+    ranked = sorted(set(ranked), reverse=True)
+    l = len(ranked)
+
+    for a in player:
+        while (l > 0) and (a >= ranked[l-1]):
+            l -= 1
+        result.append(l+1)
+    return result
+	
 

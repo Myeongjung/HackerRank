@@ -118,3 +118,4 @@
 |114| [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |115| [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | Easy | [Solution #101-115](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23101-115.py) |
 |116| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+|117| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
