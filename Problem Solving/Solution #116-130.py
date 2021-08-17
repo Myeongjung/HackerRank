@@ -25,4 +25,12 @@ def climbingLeaderboard(ranked, player):
         result.append(l+1)
     return result
 	
+#118. Extra Long Factorials
+def extraLongFactorials(n):
+    result = 1
+    while n > 0:
+        result *= n
+        n-=1
+    print(result)
+	
 
