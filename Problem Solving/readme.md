@@ -120,15 +120,4 @@
 |116| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |117| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |118| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |119| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |120| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |121| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |122| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |123| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |124| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |125| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |126| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |127| []() | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |128| []() | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |129| []() | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |130| []() | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+|119| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
