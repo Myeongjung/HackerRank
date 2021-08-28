@@ -64,3 +64,16 @@ def queensAttack(n, k, r_q, c_q, obstacles):
 
     return count
 
+#121. Organizing Containers of Balls
+def organizingContainers(container):
+    sv=[]
+    sh=[]
+    for i in range(n):
+        sv.append(0)
+        sh.append(sum(container[i]))
+        for j in range(n):
+            sv[i]+=container[j][i]
+    sv.sort()
+    sh.sort()
+    return "Possible" if sv==sh else "Impossible"
+

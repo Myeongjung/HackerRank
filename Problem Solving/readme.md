@@ -122,3 +122,4 @@
 |118| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |119| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |120| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+|121| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
