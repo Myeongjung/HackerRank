@@ -16,6 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (122/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|9   | [Databases](#9-databases) 	 					     			| In progress (1/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -579,3 +580,9 @@
 |120| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |121| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |122| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+
+
+## 9. Databases
+
+| idx |Question|Difficulty|File Name|
+|:---:|:------:|:--------:|:-------:|
