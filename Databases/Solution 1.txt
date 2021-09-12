@@ -56,3 +56,16 @@ What is the count of rows returned in the following relational selection?
 
 => Dan, Nel are selected, 2
 
+-Basics of Sets and Relations #6
+
+Consider the following data table named Student.
+
+Name                Number  Sex  
+Nina                3412    F 
+Mike                1234    M  
+Nelson              2341    F  
+What is the count of attributes (columns) returned in the following projection?
+π(Name, Number)(Student)
+
+=> Name, Number columns, 2
+
