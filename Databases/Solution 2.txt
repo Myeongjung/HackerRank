@@ -1,0 +1,9 @@
+- Database Query Languages
+
+Using which language can a user request information from a database ?
+ 
+(X) Query
+() Relational
+() Structural
+() Compiler
+
