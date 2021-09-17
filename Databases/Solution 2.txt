@@ -7,3 +7,22 @@ Using which language can a user request information from a database ?
 () Structural
 () Compiler
 
+- Procedural Language
+
+Which one of the following is a procedural language ?
+
+() Domain relational calculus
+() Tuple relational calculus
+(X) Relational algebra
+() Query language
+
+
+- Relations - 1
+
+The_____ operation allows the combining of two relations by merging pairs of tuples, one from each relation, into a single tuple.
+ 
+() Select
+(X) Join
+() Union
+() Intersection
+
