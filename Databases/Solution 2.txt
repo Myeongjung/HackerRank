@@ -26,3 +26,13 @@ The_____ operation allows the combining of two relations by merging pairs of tup
 () Union
 () Intersection
 
+
+- Relations - 2
+
+The result which operation contains all pairs of tuples from the two relations, regardless of whether their attribute values match.
+
+() Join
+(X) Cartesian product
+() Intersection
+() Set difference
+

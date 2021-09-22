@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (122/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (9/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (10/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -595,3 +595,5 @@
 | 7  | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/problem) | Easy | [Solution 1](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%201.txt) |
 | 8  | [Database Query Languages](https://www.hackerrank.com/challenges/database-query-languages/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 9  | [Procedural Language](https://www.hackerrank.com/challenges/procedural-language/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+| 10| [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+
