@@ -11,3 +11,4 @@
 | 8  | [Database Query Languages](https://www.hackerrank.com/challenges/database-query-languages/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 9  | [Procedural Language](https://www.hackerrank.com/challenges/procedural-language/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 10| [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+| 11| [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |

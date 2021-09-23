@@ -36,3 +36,13 @@ The result which operation contains all pairs of tuples from the two relations, 
 () Intersection
 () Set difference
 
+
+- Relational Algebra - 3
+
+Which is a join condition contains an equality operator?
+
+(X) Equijoins
+() Cartesian
+() Natural
+() Left
+
