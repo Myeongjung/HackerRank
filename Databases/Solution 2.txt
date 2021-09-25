@@ -47,3 +47,13 @@ Which is a join condition contains an equality operator?
 () Left
 
 
+- Relational Algebra - 4
+
+In precedence of set operators the expression is evaluated from:
+
+() Depends on the expression
+(X) Left to right
+() Right to left
+() From user specification
+
+

@@ -13,3 +13,4 @@
 | 10| [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 11| [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 12| [Relational Algebra - 3](https://www.hackerrank.com/challenges/relational-algebra-3/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+| 13| [Relational Algebra - 4](https://www.hackerrank.com/challenges/relational-algebra-4/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
