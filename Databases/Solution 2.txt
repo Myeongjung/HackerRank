@@ -57,3 +57,13 @@ In precedence of set operators the expression is evaluated from:
 () From user specification
 
 
+- Index Architecture Types
+
+How many index architecture type classifications are there in MS SQL Server?
+
+() 1
+(X) 2
+() 3
+() 4
+
+
