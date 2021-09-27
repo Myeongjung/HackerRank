@@ -15,3 +15,4 @@
 | 12| [Relational Algebra - 3](https://www.hackerrank.com/challenges/relational-algebra-3/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 13| [Relational Algebra - 4](https://www.hackerrank.com/challenges/relational-algebra-4/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 14| [Index Architecture Types](https://www.hackerrank.com/challenges/indexes-1/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+| 15| [Indexes - 2](https://www.hackerrank.com/challenges/indexes-2/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
