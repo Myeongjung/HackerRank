@@ -75,3 +75,18 @@ Which of the following statement is true about row locators in non-clustered ind
 () If the table has a clustered index, or the index is on an indexed view, the row locator is a pointer to the row.
 (X) If the table has a clustered index, or the index is on an indexed view, the row locator is the clustered index key for the row.
 () None of the above-mentioned statement is true.
+
+
+- Indexes - 3
+
+Consider the following two designs to store the data using clustered indexes in MS SQL Server:
+In the first design, the fill factor is 20% and the total number of free rows per page are A.
+
+In the second design, the fill factor is 40% and the total number of free rows per page are B.
+
+Which the followings describes the relation between A and B:
+(X) A = 1.33B
+() B = 1.33A
+() A = 0.67B
+() B = 0.67A
+
