@@ -18,3 +18,4 @@
 | 15| [Indexes - 2](https://www.hackerrank.com/challenges/indexes-2/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 16| [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 17| [Indexes - 4](https://www.hackerrank.com/challenges/indexes-4/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
+| 18| [Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |

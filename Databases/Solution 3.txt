@@ -1,0 +1,16 @@
+- Database Normalization #1 - 1NF
+
+The following unnormalized table named PRODUCT is transformed to first normal form (1NF) 
+by splitting it into two tables which have X and Y rows (such that X <Y) respectively. 
+Both the tables have Z columns.
+
+*Product-ID*    *Colors*    *Price*
+1               Red,Green   15.0
+2               Blue        18.0
+3               Yellow,Pink 2.5
+What are the values of X, Y, Z?
+
+=> 3,5,2
+
+3 prices, 5 colors, 2 columns(product-id, colors/price)
+
