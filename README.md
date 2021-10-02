@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (122/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (18/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (19/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -604,5 +604,6 @@
 | 16| [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 17| [Indexes - 4](https://www.hackerrank.com/challenges/indexes-4/problem) | Easy | [Solution 2](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%202.txt) |
 | 18| [Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 19| [Database Normalization #2 - 1/2/3 NF](https://www.hackerrank.com/challenges/database-normalization-123nf/problem?h_r=next-challenge&h_v=zen) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 
 

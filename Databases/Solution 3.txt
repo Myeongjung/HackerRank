@@ -14,3 +14,14 @@ What are the values of X, Y, Z?
 
 3 prices, 5 colors, 2 columns(product-id, colors/price)
 
+
+- Database Normalization #2 - 1/2/3 NF
+
+A particular database is normalized to satisfy a particular level of normalization (either 1NF or 2NF or 3NF). 
+One of the tables contains, among other fields, a column for the City and a column for the Zip Code.
+Assuming that there is a many-to-one mapping between the set of Zip Code(s) and City, 
+we may conclude that the database is definitely NOT in NF form. 
+What is the integer x (1, 2, or 3)? Fill your answer in the text box below.
+
+=> 3
+
