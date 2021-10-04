@@ -36,3 +36,12 @@ what is the minimum number of tables required to structure this database in acco
 => 3
 
 student table, course table, and enrollment table
+
+
+- Database Normalization #4
+
+A database, normalized as per 2NF rules, has been split into 10 tables. 
+Each of the tables has exactly two columns: one key attribute and one non-key attribute. 
+What is the minimum number of tables required to express this database in 3NF form? 
+
+=> 10
