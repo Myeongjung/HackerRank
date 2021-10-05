@@ -45,3 +45,20 @@ Each of the tables has exactly two columns: one key attribute and one non-key at
 What is the minimum number of tables required to express this database in 3NF form? 
 
 => 10
+
+
+- Database Normalization #5
+
+Consider the following relation and determinants.
+
+R(a, b,c,d)
+
+                   a,c -> b,d
+                   a,d -> b
+        Also, a,b is a primary key for the above relation.
+		
+The above relation is in x NF form where x may take the following values {1,2,3,3.5} corresponding to {1NF, 2NF, 3NF and BCNF} respectively.
+What is the maximum possible value of x such that the above relation satisfies the *x*NF form?
+
+=> 3
+
