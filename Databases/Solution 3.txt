@@ -62,3 +62,28 @@ What is the maximum possible value of x such that the above relation satisfies t
 
 => 3
 
+
+- Database Normalization #6
+
+Let us take the example of a simple movie library. Each movie has a description, director, and serial number. 
+Customers have a name, address, and membership number. Assume only one copy of each movie exists in the library. 
+We are given the following relations and determinants. The keys for each relation are CAPITALIZED.
+
+Relations (The key is CAPITALIZED):
+customer(name,addr,MEMBERNO)
+movie(DESCRIPTION,director,serialno)
+borrow(memberno,DATE,SERIALNO)
+
+Determinants:
+description->director,serialno
+serialno->description
+serialno->director
+name,addr -> memberno
+memberno -> name,addr
+serialno,date -> memberno
+The above relation is in x**NF form where x may take the following values {1,2,3,3.5} corresponding to {1NF, 2NF, 3NF and BCNF} respectively.
+What is the maximum possible value of **x such that the above relation satisfies the *x*NF form?
+
+=> 2
+
+In movie column, director depends on serialno, and serialno depends on description (Transitive dependence - unaccepted for 3NF)
