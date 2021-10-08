@@ -112,3 +112,25 @@ What is the maximum possible value of **x such that the above relation satisfies
 
 => 3.5
 
+
+- Database Normalization #8
+
+Let us take the example of a simple movie library. Each movie has a description, director, and serial number. 
+Customers have a name, address, and membership number. Assume only one copy of each movie exists in the library.
+We are given the following relations and determinants. The keys for each relation are CAPITALIZED.
+
+Relations (The key is CAPITALIZED):
+customer(name,addr,MEMBERNO)
+movie(DESCRIPTION,director,serialno)
+borrow(memberno,DATE,SERIALNO)
+Which of these determinants is a NON-KEY dependency? In the text box, only enter the index number (1-6) of the dependency which you have identified as non-key.
+
+1.  description->director,serialno
+2.  serialno->description
+3.  serialno->director
+4.  name,addr -> memberno
+5.  memberno -> name,addr
+6.  serialno,date -> memberno
+
+=> 3
+
