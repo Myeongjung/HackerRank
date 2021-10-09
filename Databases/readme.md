@@ -26,3 +26,7 @@
 | 23| [Database Normalization #6](https://www.hackerrank.com/challenges/database-normalization-6/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Medium | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 24| [Database Normalization #7](https://www.hackerrank.com/challenges/database-normalization-7/problem) | Medium | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 25| [Database Normalization #8](https://www.hackerrank.com/challenges/database-normalization-8/problem) | Medium | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 26| [Database Normalization #9](https://www.hackerrank.com/challenges/database-normalization-9/problem) | Hard | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+
+
+
