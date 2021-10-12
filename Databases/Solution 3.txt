@@ -173,3 +173,12 @@ In the text box below, enter the value of the integer N.
 
 => 6
 
+
+- OLAP Operations - 1
+
+This OLAP operation involves computing all of the data relationships for one or more dimensions.
+
+() dice
+() slice
+() pivot
+(X) roll-up
