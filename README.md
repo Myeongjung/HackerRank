@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (122/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (28/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (29/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -614,5 +614,5 @@
 | 26| [Database Normalization #9](https://www.hackerrank.com/challenges/database-normalization-9/problem) | Hard | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 27| [Database Normalization #10](https://www.hackerrank.com/challenges/database-normalization-10/problem?h_r=next-challenge&h_v=zen) | Medium | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 28| [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
-
+| 29| [OLAP Operations - 2](https://www.hackerrank.com/challenges/olap-operations-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 
