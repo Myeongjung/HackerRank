@@ -191,3 +191,12 @@ This OLAP Operation rotates the data, and delivers an alternative to the origina
 () slice
 () roll-up
 () dice
+
+- OLAP Cube Metadata
+
+What is the source of the cube metadata for OLAP?
+
+() Star Schema
+() Snowflake Schema
+() Standard Database
+(X) Both star and snowflake schema(s)

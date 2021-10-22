@@ -30,3 +30,7 @@
 | 27| [Database Normalization #10](https://www.hackerrank.com/challenges/database-normalization-10/problem?h_r=next-challenge&h_v=zen) | Medium | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 28| [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 29| [OLAP Operations - 2](https://www.hackerrank.com/challenges/olap-operations-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 30| [OLAP Cube Metadata](https://www.hackerrank.com/challenges/olap-cube-metadata/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+
+
+
