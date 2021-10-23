@@ -200,3 +200,12 @@ What is the source of the cube metadata for OLAP?
 () Snowflake Schema
 () Standard Database
 (X) Both star and snowflake schema(s)
+
+- OLAP Name(s)
+
+Which of these are alternate names for an OLAP Cube? The options in the top row are a and b respecitvely and those in the bottom row are c and d.
+
+() Cube
+() Multidimensional Cube
+() HyperCube
+(X) Both (B) and (C)

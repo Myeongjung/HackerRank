@@ -31,6 +31,8 @@
 | 28| [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 29| [OLAP Operations - 2](https://www.hackerrank.com/challenges/olap-operations-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 30| [OLAP Cube Metadata](https://www.hackerrank.com/challenges/olap-cube-metadata/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 31| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+
 
 
 
