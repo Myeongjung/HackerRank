@@ -209,3 +209,12 @@ Which of these are alternate names for an OLAP Cube? The options in the top row 
 () Multidimensional Cube
 () HyperCube
 (X) Both (B) and (C)
+
+- The Total View
+
+Which of these provides a total view of the organization?
+
+() OLAP
+() OLTP
+(X) Data Warehousing
+() Database

@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (122/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (31/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (32/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -617,4 +617,6 @@
 | 29| [OLAP Operations - 2](https://www.hackerrank.com/challenges/olap-operations-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 30| [OLAP Cube Metadata](https://www.hackerrank.com/challenges/olap-cube-metadata/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 31| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 32| [The Total View](https://www.hackerrank.com/challenges/the-total-view/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+
 
