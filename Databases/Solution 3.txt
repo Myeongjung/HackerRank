@@ -236,3 +236,10 @@ then the result sizes of queries Q1, Q2, and Q3 are d, e, and f respectively.
 () (2, 2, 2, 8, 64, 15)
 () (5, 10, 10, 500, 1000, 550)
 (X) (4, 7, 3, 84, 160, 117)
+
+- OLAP Performance
+
+Which of these helps OLAP speed up queries, in terms of performance?
+
+() Dice
+(X) Aggregation
