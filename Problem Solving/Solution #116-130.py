@@ -95,4 +95,13 @@ def biggerIsGreater(w):
     arr[i : ] = arr[len(arr) - 1 : i - 1 : -1]
     return "".join(arr)
 
-
+#123. Encryption
+def encryption(s):
+    sm=s.replace(" ","")
+    r=math.floor(math.sqrt(len(sm)))
+    c=math.ceil(math.sqrt(len(sm)))
+    ans = ""
+    for i in range(c):
+        ans += sm[i::c] + " "
+    return ans
+	
