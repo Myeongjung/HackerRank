@@ -125,7 +125,7 @@
 |121| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |122| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |123| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
-<!-- |124| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+|124| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 <!-- |125| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 <!-- |126| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 <!-- |127| []() | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |

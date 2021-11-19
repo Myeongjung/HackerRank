@@ -105,3 +105,27 @@ def encryption(s):
         ans += sm[i::c] + " "
     return ans
 	
+#124. Almost Sorted
+def almostSorted(arr):
+    sortedarr = sorted(arr)
+    a = []
+    subarr = []
+    for i in range(len(arr)):
+        if arr[i] != sortedarr[i]:
+            a.append(i+1)
+            
+    if len(a) == 2:
+        print("yes")
+        print("swap", a[0],a[1],sep = " ")
+    else:       
+        for i in range(len(arr)):
+            if arr[i] == sortedarr[i]:
+                continue
+            else:
+                subarr.append(arr[i])
+        if subarr == sorted(subarr,reverse = True):
+            print("yes")
+            print("reverse", arr.index(subarr[0])+1,arr.index(subarr[-1])+1,sep=" ")
+        else:
+            print("no")
+
