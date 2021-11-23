@@ -128,4 +128,31 @@ def almostSorted(arr):
             print("reverse", arr.index(subarr[0])+1,arr.index(subarr[-1])+1,sep=" ")
         else:
             print("no")
+			
+#125. The Time in Words
+num2words = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', \
+             6: 'six', 7: 'seven', 8: 'eight', 9: 'nine', 10: 'ten', \
+            11: 'eleven', 12: 'twelve', 13: 'thirteen', 14: 'fourteen', \
+            15: 'quarter', 16: 'sixteen', 17: 'seventeen', 18: 'eighteen', \
+            19: 'nineteen', 20: 'twenty', 30: 'half'}
+
+def n2w(n):
+    try:
+        return(num2words[n])
+    except KeyError:
+        try:
+            return(num2words[n-n%10] + " " + num2words[n%10]) 
+        except KeyError:
+            print('Number out of range')
+            
+def timeInWords(h, m):
+    if m == 0:
+        return "{} o' clock".format(n2w(h))
+    elif m <= 30:
+        return "{} past {}".format(n2w(m) + " minute" if m==1 else n2w(m) \
+                if m==15 or m==30 else n2w(m) + " minutes", n2w(h))
+    else:
+        return "{} to {}".format(n2w(60-m) + " minute" if m==1 else n2w(60-m) \
+                if 60-m==15 else n2w(60-m) + " minutes", n2w(h+1))
+				
 
