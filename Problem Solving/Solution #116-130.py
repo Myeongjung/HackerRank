@@ -155,4 +155,26 @@ def timeInWords(h, m):
         return "{} to {}".format(n2w(60-m) + " minute" if m==1 else n2w(60-m) \
                 if 60-m==15 else n2w(60-m) + " minutes", n2w(h+1))
 				
+#126. Absolute Permutation
+def absolutePermutation(n, k):
+    if k == 0:
+        return [i for i in range(1, n+1)]
+    elif (n/k) % 2 != 0:
+        return [-1]
+    else:
+        add = True
+        perm = []
+        
+        for i in range(1, n+1):
+            if add:
+                perm.append(i+k)      
+            else:
+                perm.append(i-k)
+                
+            if i % k == 0:
+                if add:
+                    add = False
+                else:
+                    add = True
+        return perm
 

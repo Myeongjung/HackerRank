@@ -15,7 +15,7 @@
 |5   | [Java](#5-java) 															 | Completed | [Java (Basic)](https://www.hackerrank.com/certificates/faaab194101a) |
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
-|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (125/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
+|8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (126/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
 |9   | [Databases](#9-databases) 	 					     			| In progress (34/-) | |
 
 ## 1. Python 
@@ -583,6 +583,8 @@
 |123| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |124| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
 |125| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+|126| [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | Medium | [Solution #116-130](https://github.com/Myeongjung/HackerRank/blob/main/Problem%20Solving/Solution%20%23116-130.py) |
+
 
 ## 9. Databases
 
