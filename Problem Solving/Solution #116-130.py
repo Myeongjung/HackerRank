@@ -177,4 +177,8 @@ def absolutePermutation(n, k):
                 else:
                     add = True
         return perm
-
+		
+#127. 
+#128. 
+#129. 
+#130. 
