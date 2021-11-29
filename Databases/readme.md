@@ -35,3 +35,4 @@
 | 32| [The Total View](https://www.hackerrank.com/challenges/the-total-view/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 33| [OLAP Operation Types](https://www.hackerrank.com/challenges/olap-operation-types-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 34| [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem) | Hard | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
+| 35| [Querying XML Datastores with XPath - 1](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-1/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
