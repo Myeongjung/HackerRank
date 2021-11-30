@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (126/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (35/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (36/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -625,3 +625,5 @@
 | 33| [OLAP Operation Types](https://www.hackerrank.com/challenges/olap-operation-types-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) || 30| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 34| [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem) | Hard | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) || 30| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 35| [Querying XML Datastores with XPath - 1](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-1/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 36| [Querying XML Datastores with XPath - 2](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-2/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+
