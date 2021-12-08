@@ -629,6 +629,7 @@
 | 37| [Querying XML Datastores with XPath - 3](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-3/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 38| [Querying XML Datastores with XPath - 4](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-4/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 39| [Querying XML Datastores with XPath - 5](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-5/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 40| [Querying XML Datastores with XPath - 6](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-6/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 
 
 
