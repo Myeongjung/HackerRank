@@ -624,13 +624,17 @@
 | 32| [The Total View](https://www.hackerrank.com/challenges/the-total-view/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 33| [OLAP Operation Types](https://www.hackerrank.com/challenges/olap-operation-types-2/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) || 30| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
 | 34| [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem) | Hard | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) || 30| [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names/problem) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%203.txt) |
-| 35| [Querying XML Datastores with XPath - 1](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-1/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-| 36| [Querying XML Datastores with XPath - 2](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-2/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-| 37| [Querying XML Datastores with XPath - 3](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-3/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-| 38| [Querying XML Datastores with XPath - 4](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-4/problem?isFullScreen=true) | Easy | [Solution 3](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 35| [Querying XML Datastores with XPath - 1](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-1/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 36| [Querying XML Datastores with XPath - 2](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-2/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 37| [Querying XML Datastores with XPath - 3](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-3/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 38| [Querying XML Datastores with XPath - 4](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-4/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 39| [Querying XML Datastores with XPath - 5](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-5/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 40| [Querying XML Datastores with XPath - 6](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-6/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 41| [Querying XML Datastores with XPath - 7](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-7/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 42| [Querying XML Datastores with XPath - 8](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-8/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+
+
+
 
 
 
