@@ -16,7 +16,7 @@
 |6   | [10 Days of Javascript](#6-10-days-of-javascript) 			 | Completed | [JavaScript (Basic)](https://www.hackerrank.com/certificates/d3270267e67b) |
 |7   | [30 Days of Code](#7-30-days-of-code) 	 						 | Completed | |
 |8   | [Problem Solving](#8-problem-solving) 	 					     | In progress (126/-) | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/351c24b568f2) |
-|9   | [Databases](#9-databases) 	 					     			| In progress (43/-) | |
+|9   | [Databases](#9-databases) 	 					     			| In progress (44/-) | |
 
 ## 1. Python 
 (based on Python 3)
@@ -633,7 +633,7 @@
 | 41| [Querying XML Datastores with XPath - 7](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-7/problem?isFullScreen=true) | Easy | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 42| [Querying XML Datastores with XPath - 8](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-8/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 43| [Querying XML Datastores with XPath - 9](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-9/problem?isFullScreen=true) | Hard | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-
+| 44| [Querying XML Datastores with XPath - 10](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-10/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 
 
 
