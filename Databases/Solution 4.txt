@@ -209,3 +209,23 @@ doc = Document.new xmlText
 puts doc.elements.each("collection/movie[position()>last()-2]/@title")
 
 
+- Querying XML Datastores with XPath - 11
+
+# Standard ruby library for XML parsing
+require 'rexml/document'
+include REXML
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+xmlText = "" 
+
+# Read the input XML Fragment
+while line = gets()
+	xmlText += line
+end
+
+doc = Document.new xmlText
+
+# XPath Selector for listing the titles of the movies, in the same order as which they occur in the given XML.
+# Fill in the blanks to complete the required XPath selector query
+puts doc.elements.each("collection/movie[position() mod 2 != 0]/@title")
+
