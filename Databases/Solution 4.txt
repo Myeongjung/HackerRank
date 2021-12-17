@@ -229,3 +229,14 @@ doc = Document.new xmlText
 # Fill in the blanks to complete the required XPath selector query
 puts doc.elements.each("collection/movie[position() mod 2 != 0]/@title")
 
+
+- Databases - Relational Calculus
+
+We execute the following query (in Relational Calculus) on a set of integers S.
+For the given set S, what will be the answer? Fill up the answer box with the required integer.
+
+S = {4,5,6,7,10,11,19,18,3}
+
+
+=> 19
+

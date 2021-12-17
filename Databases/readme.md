@@ -46,9 +46,4 @@
 | 43| [Querying XML Datastores with XPath - 9](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-9/problem?isFullScreen=true) | Hard | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 44| [Querying XML Datastores with XPath - 10](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-10/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 45| [Querying XML Datastores with XPath - 11](https://www.hackerrank.com/challenges/querying-xml-datastores-with-xpath-11/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-
-
-
-
-
-
+| 46| [Databases - Relational Calculus](https://www.hackerrank.com/challenges/databases-relational-calculus/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
