@@ -294,3 +294,39 @@ In the answer box, fill up the values of the integers X, Y and Z in three separa
 1
 6
 
+
+- Databases - Differences
+
+Relation R(A,B,C) has the following tuples:
+
+A B C
+1 2 3
+4 2 3
+4 5 6
+2 5 3
+1 2 6
+
+and relation S(A,B,C) has the following tuples:
+
+A B C
+2 5 3
+2 5 4
+4 5 6
+1 2 3
+
+The differences (R-S) is computed and the following tuple is found to be present in the result. Assume that the schema of the result is (A,B,C).
+
+4, b, c
+
+Find the integers b and c. Fill in the values in the answer box, each on a new line.
+
+Output Format
+
+Two integers, corresponding to b and c, each on a new line. For example:
+
+4  
+5  
+
+=> 
+2
+3

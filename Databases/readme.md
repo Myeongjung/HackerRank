@@ -49,3 +49,4 @@
 | 46| [Databases - Relational Calculus](https://www.hackerrank.com/challenges/databases-relational-calculus/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 47| [Databases - Keys](https://www.hackerrank.com/challenges/databases-keys/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 48| [Databases - Natural Joins](https://www.hackerrank.com/challenges/databases-natural-joins/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
+| 49| [Databases - Relational Calculus](https://www.hackerrank.com/challenges/databases-differences/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
