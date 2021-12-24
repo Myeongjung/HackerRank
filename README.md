@@ -639,7 +639,7 @@
 | 47| [Databases - Keys](https://www.hackerrank.com/challenges/databases-keys/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 48| [Databases - Natural Joins](https://www.hackerrank.com/challenges/databases-natural-joins/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
 | 49| [Databases - Relational Calculus](https://www.hackerrank.com/challenges/databases-differences/problem?isFullScreen=true) | Medium | [Solution 4](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%204.txt) |
-
+| 50| [Map Reduce Advanced - Count number of friends](https://www.hackerrank.com/challenges/map-reduce-advanced-count-number-of-friends/problem?isFullScreen=true) | Hard | [Solution 5](https://github.com/Myeongjung/HackerRank/blob/main/Databases/Solution%205.py) |
 
 
 
