@@ -4,7 +4,7 @@
     </a>
     <br>Solutions for HackerRank problems and Certifications
 </p>
-
+ 
 ## Table of contents
 |idx | Contents 																		 | Status	   |   Certification	   |
 |:--:|:--------------------------------------------------------------------|:------------|:--------------|
